@@ -981,7 +981,9 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 https://srv.vhls.ru.com/cdn/premium1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/m2bYpkpD/2-Xh7j-A1-L-400x400.png" group-title="SPORTS",LFC TV
-http://starshare.live:8080/live/usman007/usman007/30.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium530/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d1j7GmY9/Round-Photo-Jul162022-142045.png" group-title="SPORTS",REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
@@ -1309,11 +1311,5 @@ https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708483_800.m3u8?k=b9cdcb69a814f0b961
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TAPIEI OPEN | COURT 4
 https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708483_800-1658290433.ts
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",BRISBANE ROAR VS ASTON VILA
-https://bf.mzbox.net/live/sd-1-3776688.m3u8?txSecret=2388bfbed6c2251986112ba9282821a5&txTime=62d7cf93
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TOKYO VERDY VS JUBILO IWATA
-https://pull.jy029.com/leisu/1118000374486687.flv?auth_key=1658327520-0-0-a559e4673620850e8eb70ca4baf48603
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",KAWASAKI FRONTALE VS PARIS SAINT GERMAN
-https://bf.mzbox.net/live/3300044.m3u8?txSecret=ef37eff3f4f5e8d3d808a30eeea2d35f&txTime=62d7db3bxe2 z.w,
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",RB LEIPZIG VS LIVERPOOL
+https://bf.mzbox.net/live/sd-1-3775285.m3u8?txSecret=6bf4ac2c9f1c3f98680b373baaf61a49&txTime=62d98a6b
