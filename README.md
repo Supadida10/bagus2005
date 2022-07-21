@@ -1005,6 +1005,12 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://srv.vhls.ru.com/cdn/premium530/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dQdMNZkx/Round-Photo-Jul212022-134036.png" group-title="SPORTS",USEE SPORTS 1
+http://pprotv.com/live/asim1234/123456/39554.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7L7Mr43w/Round-Photo-Jul212022-134225.png" group-title="SPORTS",USEE SPORTS 2
+http://pprotv.com/live/asim1234/123456/39555.m3u8
+
 MOVIES & ENTERTAINMENT
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
