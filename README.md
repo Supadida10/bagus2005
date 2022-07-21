@@ -672,7 +672,9 @@ https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mp
 SPORTS
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Gp4cC62d/Round-Photo-Jul092022-023110.png" group-title="SPORTS",BEIN PREMIUM 1 AR
-http://bestsave.ltd:2052/33331111/11113333/90295
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/beinpremium1
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/NFJJBCLv/Round-Photo-Jul092022-023416.png" group-title="SPORTS",BEIN PREMIUM 2 AR
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
