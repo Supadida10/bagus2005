@@ -669,6 +669,8 @@ https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 #EXTINF:0 tvg-id="ABCAustraliaAsia.au" tvg-name="" tvg-logo="https://i.postimg.cc/R0S8jKNx/Round-Photo-Jul092022-091558.png" group-title="WORLD",ABC AUSTRALIA
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
+#EXTINF:0 tvg-id="dubaione.ae" tvg-name="" tvg-logo="https://i.postimg.cc/sXq4BxKb/Round-Photo-Jul212022-200414.png" group-title="WORLD",DUBAI ONE
+https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 SPORTS
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Gp4cC62d/Round-Photo-Jul092022-023110.png" group-title="SPORTS",BEIN PREMIUM 1 AR
@@ -1314,4 +1316,4 @@ https://bf.mzbox.net/live/sd-1-3776688.m3u8?txSecret=2388bfbed6c2251986112ba9282
 https://pull.jy029.com/leisu/1118000374486687.flv?auth_key=1658327520-0-0-a559e4673620850e8eb70ca4baf48603
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",KAWASAKI FRONTALE VS PARIS SAINT GERMAN
-https://bf.mzbox.net/live/3300044.m3u8?txSecret=ef37eff3f4f5e8d3d808a30eeea2d35f&txTime=62d7db3b
+https://bf.mzbox.net/live/3300044.m3u8?txSecret=ef37eff3f4f5e8d3d808a30eeea2d35f&txTime=62d7db3bxe2 z.w,
