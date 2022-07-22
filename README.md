@@ -1311,10 +1311,7 @@ https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/
 https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658312437~exp=9007200913053428~acl=/facbf6cdf3f647d48de51fda6e7d2d4b/*/profile_0/chunklist.m3u8*~hmac=3b48f34c3ccce01ab1aff8843ce16d2f6f5e5ec240b4dabfa6bb558378649712
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TAPIEI OPEN | COURT 3
-https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708483_800.m3u8?k=b9cdcb69a814f0b961d1bdb015f06cd4&t=62d6341f
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TAPIEI OPEN | COURT 4
-https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708483_800-1658290433.ts
+https://dno-fifajs-native-major.youku.com/fifa_jieshuo/YMQ-INTsignal3_sjb480.m3u8?auth_key=1689732320-0-0-5a7e021e20128a3c30c3c48ecacfb8f3&amp;title=2022%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E5%85%AC%E5%BC%80%E8%B5%9B7%E6%9C%8819%E6%97%A53%E5%8F%B7%E5%9C%BA%E5%85%A8%E6%99%AF%E7%9B%B4%E6%92%AD&amp;ver=1.0.0&amp;uid=0&amp;log_type=log_type&amp;aliyun_uuid=q2BBGwkC3SMCAbT70bZmOAXA&amp;ccode=live05020101&amp;cdnQuality=480p&amp;quality=3&amp;multi_raw_stream=YMQ-INTsignal3&amp;rid=20000000417375CF8DA9342191D179BAB961B5A7000000
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",RB LEIPZIG VS LIVERPOOL
 https://bf.mzbox.net/live/sd-1-3775285.m3u8?txSecret=6bf4ac2c9f1c3f98680b373baaf61a49&txTime=62d98a6b
