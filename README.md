@@ -574,7 +574,7 @@ http://162.55.88.21/rtk1stream/rtk1.stream/playlist.m3u8
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bvhP2dYV/Round-Photo-Jul092022-021541.png" group-title="WORLD",RTP INTERNACIONAL PORTUGAL
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpi_5ch120h264.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HLkgtR5b/Round-Photo-Jul092022-021750.png" group-title="WORLD",MIR TV RUSSIA
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
