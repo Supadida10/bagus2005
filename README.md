@@ -40,10 +40,10 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w35916090_b744100_sl
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w410935071_b744100_sleng.m3u8
 
 #EXTINF:0 tvg-id="ANTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/j2Vg5QLF/Round-Photo-Jul072022-081225.png" group-title="INDONESIA",ANTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/lokal/antv1.m3u8
 
 #EXTINF:0 tvg-id="MetroTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/W4FwkqLL/Round-Photo-Jul072022-081350.png" group-title="INDONESIA",METRO TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/lokal/metrotv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
