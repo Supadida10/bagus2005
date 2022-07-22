@@ -1162,15 +1162,6 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:0 tvg-id="OneTVAsia.sg" tvg-name="" tvg-logo="https://i.postimg.cc/MTdj9kg8/Round-Photo-Jul092022-094205.png" group-title="MOVIES & ENTERTAINMENT",ONE
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:0 tvg-id="beindrama.ar" tvg-name="" tvg-logo="https://i.postimg.cc/MTdj9kg8/Round-Photo-Jul092022-094205.png" group-title="MOVIES & ENTERTAINMENT",BEIN DRAMA
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/3735.m3u8
-
-#EXTINF:0 tvg-id="rotanadrama.ar" tvg-name="" tvg-logo="https://i.postimg.cc/3JvdTFqX/Round-Photo-Jul222022-140254.png" group-title="MOVIES & ENTERTAINMENT",ROTANA DRAMA
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2906.m3u8
-
-#EXTINF:0 tvg-id="beinmovies.ar" tvg-name="" tvg-logo="https://i.postimg.cc/NjLYtsFW/Round-Photo-Jul222022-140553.png" group-title="MOVIES & ENTERTAINMENT",BEIN MOVIES
-http://starshare.live:8080/live/usman007/usman007/4716.m3u8
-
 
 KIDS
 
