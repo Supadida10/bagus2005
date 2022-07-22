@@ -849,18 +849,23 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 https://srv.vhls.ru.com/cdn/premium49/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BbtKr4ys/Round-Photo-Jul092022-032541.png" group-title="SPORTS",SPORT TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium74/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://jl532y2vc161xk.smokelearned.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/sport2
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CPMRRHj/Round-Photo-Jul092022-032726.png" group-title="SPORTS",SPORT TV 3
-http://golive.yn.lt:80/stream/sporttv/03.m3u8
+#EXTVLCOPT:http-referrer=https://jl532y2vc161xk.smokelearned.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/sport3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bwvwL37c/Round-Photo-Jul092022-032921.png" group-title="SPORTS",SPORT TV 4
-http://golive.yn.lt:80/stream/sporttv/04.m3u8
+#EXTVLCOPT:http-referrer=https://jl532y2vc161xk.smokelearned.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/sport4u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/W359mpgP/Round-Photo-Jul092022-033111.png" group-title="SPORTS",SPORT TV 5
-http://golive.yn.lt:80/stream/sporttv/05.m3u8
+#EXTVLCOPT:http-referrer=https://jl532y2vc161xk.smokelearned.net/
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/sport5
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1156,6 +1161,15 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="OneTVAsia.sg" tvg-name="" tvg-logo="https://i.postimg.cc/MTdj9kg8/Round-Photo-Jul092022-094205.png" group-title="MOVIES & ENTERTAINMENT",ONE
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#EXTINF:0 tvg-id="beindrama.ar" tvg-name="" tvg-logo="https://i.postimg.cc/MTdj9kg8/Round-Photo-Jul092022-094205.png" group-title="MOVIES & ENTERTAINMENT",BEIN DRAMA
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/3735.m3u8
+
+#EXTINF:0 tvg-id="rotanadrama.ar" tvg-name="" tvg-logo="https://i.postimg.cc/3JvdTFqX/Round-Photo-Jul222022-140254.png" group-title="MOVIES & ENTERTAINMENT",ROTANA DRAMA
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2906.m3u8
+
+#EXTINF:0 tvg-id="beinmovies.ar" tvg-name="" tvg-logo="https://i.postimg.cc/NjLYtsFW/Round-Photo-Jul222022-140553.png" group-title="MOVIES & ENTERTAINMENT",BEIN MOVIES
+http://starshare.live:8080/live/usman007/usman007/4716.m3u8
 
 
 KIDS
