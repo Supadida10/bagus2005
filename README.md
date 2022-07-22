@@ -1014,11 +1014,25 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://srv.vhls.ru.com/cdn/premium530/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dQdMNZkx/Round-Photo-Jul212022-134036.png" group-title="SPORTS",USEE SPORTS 1
-http://pprotv.com/live/asim1234/123456/39554.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6Tx5yQSt/Round-Photo-Jul222022-230735.png" group-title="SPORTS",SPORT KLUB 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium101/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7L7Mr43w/Round-Photo-Jul212022-134225.png" group-title="SPORTS",USEE SPORTS 2
-http://pprotv.com/live/asim1234/123456/39555.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wvJX1wTN/Round-Photo-Jul222022-231054.png" group-title="SPORTS",SPORT KLUB 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium102/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/L6zmxLhV/Round-Photo-Jul222022-231925.png" group-title="SPORTS",SPORT KLUB 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium103/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2Sb7pjRT/Round-Photo-Jul222022-232120.png" group-title="SPORTS",SPORT KLUB 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium104/tracks-v1a1/mono.m3u8
 
 MOVIES & ENTERTAINMENT
 
