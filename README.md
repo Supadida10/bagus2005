@@ -1407,7 +1407,7 @@ https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
 https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT", FOOTBALL 1
-http://group1-swiftservesd-1.dens.tv/s/s37/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Live_Streaming_1
+https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT", FOOTBALL 2
 http://group1-swiftservesd-1.dens.tv/s/s37/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Live_Streaming_1
