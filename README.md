@@ -1326,6 +1326,6 @@ https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",JAPAN W VS TAIWAN W
-
+https://bf.mzbox.net/live/sd-1-3726330.m3u8?txSecret=8edf6a631838e78ede4d8f8d64b00a3e&txTime=62db979e
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",CHINA W VS SOUTH KOREA W
