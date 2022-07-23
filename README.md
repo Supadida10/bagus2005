@@ -1323,21 +1323,3 @@ https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/in
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TAIPEI OPEN | COURT 1
 https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658312368~exp=9007200913053359~acl=/60314b1553614da58b820a19f65ff2d5/*/profile_0/chunklist.m3u8*~hmac=5125a262793cc4b4e4cc3286d250df659e8e97910262ab7faee2b2af4117b39e
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TAIPEI OPEN | CORUT 2
-https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658312437~exp=9007200913053428~acl=/facbf6cdf3f647d48de51fda6e7d2d4b/*/profile_0/chunklist.m3u8*~hmac=3b48f34c3ccce01ab1aff8843ce16d2f6f5e5ec240b4dabfa6bb558378649712
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",JAPAN W VS TAIWAN W
-https://bf.mzbox.net/live/sd-1-3726330.m3u8?txSecret=8edf6a631838e78ede4d8f8d64b00a3e&txTime=62db979e
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",CHINA W KOREA REP W
-https://bf.mzbox.net/live/sd-1-3726331.m3u8?txSecret=303cfd8454ad10b9488dda8b38568488&txTime=62dbcee0
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",PSIS VS RANS FC
-https://etslive-2-vidio-com.akamaized.net/exp=1658578414~acl=/hls-p/ingest_9308_*/*~hmac=bc94bc9aad9a16f54d281dd26f915aa6ade64dd91b47d2354f3e437d4e84202b/hls-p/ingest_9308_1080p/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",MAN UTD VS ASTON VILLA
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",URAWA VS PSG
-https://bf.mzbox.net/live/sd-1-3779847.m3u8?txSecret=516d7e83f2fadd70fe3e2ef42d91f00f&txTime=62dbc76f
