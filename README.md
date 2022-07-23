@@ -1337,7 +1337,7 @@ http://group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&userid=50n13N
 https://etslive-2-vidio-com.akamaized.net/exp=1658578414~acl=/hls-p/ingest_9308_*/*~hmac=bc94bc9aad9a16f54d281dd26f915aa6ade64dd91b47d2354f3e437d4e84202b/hls-p/ingest_9308_1080p/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",MAN UTD VS ASTON VILLA
-https://pull.jljiapu.com/live/stream3992.flv?auth_key=1658585760-0-0-579cab7ff73280168778732e05ade69d
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",URAWA VS PSG
-http://group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Live_Streaming_1
+https://pull.jljiapu.com/leisu/1118747382303781.flv?auth_key=1658586660-0-0-a9be2fa62adf94ec6f48d993c51205e4
