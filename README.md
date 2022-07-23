@@ -1327,7 +1327,6 @@ https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TAIPEI OPEN | CORUT 2
 https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658312437~exp=9007200913053428~acl=/facbf6cdf3f647d48de51fda6e7d2d4b/*/profile_0/chunklist.m3u8*~hmac=3b48f34c3ccce01ab1aff8843ce16d2f6f5e5ec240b4dabfa6bb558378649712
 
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",JAPAN W VS TAIWAN W
 https://bf.mzbox.net/live/sd-1-3726330.m3u8?txSecret=8edf6a631838e78ede4d8f8d64b00a3e&txTime=62db979e
 
@@ -1336,3 +1335,9 @@ http://group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&userid=50n13N
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",PSIS VS RANS FC
 https://etslive-2-vidio-com.akamaized.net/exp=1658578414~acl=/hls-p/ingest_9308_*/*~hmac=bc94bc9aad9a16f54d281dd26f915aa6ade64dd91b47d2354f3e437d4e84202b/hls-p/ingest_9308_1080p/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",MAN UTD VS ASTON VILLA
+https://pull.jljiapu.com/live/stream3992.flv?auth_key=1658585760-0-0-579cab7ff73280168778732e05ade69d
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",URAWA VS PSG
+http://group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Live_Streaming_1
