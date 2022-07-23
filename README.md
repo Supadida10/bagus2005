@@ -1325,4 +1325,4 @@ https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/in
 https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658312368~exp=9007200913053359~acl=/60314b1553614da58b820a19f65ff2d5/*/profile_0/chunklist.m3u8*~hmac=5125a262793cc4b4e4cc3286d250df659e8e97910262ab7faee2b2af4117b39e
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",BALI UTD VS PERSIJA JKT
-http://15.235.142.241:8080/live/persijaday/3poin/37.ts
+https://etslive-2-vidio-com.akamaized.net/exp=1658595470~acl=/hls-p/ingest_9307_*/*~hmac=6fc2a3ff50819e46418ca749fa5f88c52404d64ab250e5b0a8009cf279907802/hls-p/ingest_9307_1080p/index.m3u8
