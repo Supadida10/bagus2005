@@ -1340,4 +1340,4 @@ https://etslive-2-vidio-com.akamaized.net/exp=1658578414~acl=/hls-p/ingest_9308_
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",URAWA VS PSG
-https://pull.jljiapu.com/leisu/1118747382303781.flv?auth_key=1658586660-0-0-a9be2fa62adf94ec6f48d993c51205e4
+https://bf.mzbox.net/live/sd-1-3779847.m3u8?txSecret=516d7e83f2fadd70fe3e2ef42d91f00f&txTime=62dbc76f
