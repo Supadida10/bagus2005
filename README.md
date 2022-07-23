@@ -31,7 +31,7 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/6pHvzWLW/Round-Photo-Jul072022-080351.png" group-title="INDONESIA",INDOSIAR
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/lokal/indosiardukunetdahluapainnih.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/6pHvzWLW/Round-Photo-Jul072022-080351.png" group-title="INDONESIA",INDOSIAR (LIGA IDN)
 https://etus.link/briliga1
@@ -1323,3 +1323,6 @@ https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/in
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TAIPEI OPEN | COURT 1
 https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658312368~exp=9007200913053359~acl=/60314b1553614da58b820a19f65ff2d5/*/profile_0/chunklist.m3u8*~hmac=5125a262793cc4b4e4cc3286d250df659e8e97910262ab7faee2b2af4117b39e
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",BALI UTD VS PERSIJA JKT
+http://15.235.142.241:8080/live/persijaday/3poin/37.ts
