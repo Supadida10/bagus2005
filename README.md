@@ -33,6 +33,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/6pHvzWLW/Round-Photo-Jul072022-080351.png" group-title="INDONESIA",INDOSIAR
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
+#EXTINF:0 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/6pHvzWLW/Round-Photo-Jul072022-080351.png" group-title="INDONESIA",INDOSIAR (LIGA IDN)
+https://etus.link/briliga1
+
 #EXTINF:0 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/DZcFdZL5/Round-Photo-Jul072022-080714.png" group-title="INDONESIA",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w35916090_b744100_sleng.m3u8
 
@@ -1328,4 +1331,8 @@ https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",JAPAN W VS TAIWAN W
 https://bf.mzbox.net/live/sd-1-3726330.m3u8?txSecret=8edf6a631838e78ede4d8f8d64b00a3e&txTime=62db979e
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",CHINA W VS SOUTH KOREA W
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",CHINA W KOREA REP W
+http://group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Live_Streaming_1
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",PSIS VS RANS FC
+https://etslive-2-vidio-com.akamaized.net/exp=1658578414~acl=/hls-p/ingest_9308_*/*~hmac=bc94bc9aad9a16f54d281dd26f915aa6ade64dd91b47d2354f3e437d4e84202b/hls-p/ingest_9308_1080p/index.m3u8
