@@ -1344,67 +1344,67 @@ http://group1-swiftservesd-1.dens.tv/s/s37/S4/mnf.m3u8?app_type=web&userid=50n13
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TENNIS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
+https://srv.vhls.ru.com/cdn/premium700/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TENNIS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
+https://srv.vhls.ru.com/cdn/premium701/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TENNIS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
+https://srv.vhls.ru.com/cdn/premium702/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TENNIS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
+https://srv.vhls.ru.com/cdn/premium703/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TENNIS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
+https://srv.vhls.ru.com/cdn/premium704/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TENNIS 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
+https://srv.vhls.ru.com/cdn/premium705/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TENNIS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
+https://srv.vhls.ru.com/cdn/premium706/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TENNIS 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
+https://srv.vhls.ru.com/cdn/premium707/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TENNIS 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
+https://srv.vhls.ru.com/cdn/premium708/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TENNIS 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
+https://srv.vhls.ru.com/cdn/premium709/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TENNIS 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
+https://srv.vhls.ru.com/cdn/premium710/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TENNIS 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
+https://srv.vhls.ru.com/cdn/premium711/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",TENNIS 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
+https://srv.vhls.ru.com/cdn/premium712/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT", FOOTBALL 1
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
