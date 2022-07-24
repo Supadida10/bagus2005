@@ -1349,7 +1349,7 @@ LIVE EVENT
 https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/index_6.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT", BORNEO FC VS AREMA FC
-https://vidtesta77.herokuapp.com/index.m3u8?id=9309
+https://usgtvgo.herokuapp.com/index.php?id=useesport
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",BHAYANGKARA VS PERSIB
 http://group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Live_Streaming_1
