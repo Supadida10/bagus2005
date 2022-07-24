@@ -1355,7 +1355,7 @@ https://vidtesta77.herokuapp.com/index.m3u8?id=9309
 http://group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Live_Streaming_1
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT", TOKYO VERDY VS YOKOHAMA
-https://ytlive7.herokuapp.com/index.m3u8?id=K0ThrwOLD-E
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658674410/ei/igjdYoy-LtWB4-EPpq-moAQ/ip/103.127.65.57/id/K0ThrwOLD-E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/gcr/id/spc/lT-KhmFDvG_4YOVGFIlSS1qPGbP0Av39iqngKvBWUdQs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKmbBN-qtP7eAs-r_jzLz9LzOWwEkkBSGuwjkkkvtklhAiEApMSNw9dNW7ylejxBeEaZ0Y_1Zfa9TQkCgoh0SeGqRY4%3D/file/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT", HONGKONG W VS SOUTH KOREA W
 https://bf.mzbox.net/live/5000615.m3u8?txSecret=8b45351c380b390b3fdcaf1a6707d420&txTime=62dceeda
