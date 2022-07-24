@@ -33,9 +33,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/6pHvzWLW/Round-Photo-Jul072022-080351.png" group-title="INDONESIA",INDOSIAR
 https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/lokal/indosiardukunetdahluapainnih.m3u8
 
-#EXTINF:0 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/6pHvzWLW/Round-Photo-Jul072022-080351.png" group-title="INDONESIA",INDOSIAR (LIGA IDN)
-https://etus.link/briliga1
-
 #EXTINF:0 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/DZcFdZL5/Round-Photo-Jul072022-080714.png" group-title="INDONESIA",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w35916090_b744100_sleng.m3u8
 
@@ -1352,7 +1349,7 @@ https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/in
 https://etus.link/briliga1
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",BHAYANGKARA VS PERSIB
-http://group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Live_Streaming_1
+https://etus.link/briliga1
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT", TOKYO VERDY VS YOKOHAMA
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658674410/ei/igjdYoy-LtWB4-EPpq-moAQ/ip/103.127.65.57/id/K0ThrwOLD-E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/gcr/id/spc/lT-KhmFDvG_4YOVGFIlSS1qPGbP0Av39iqngKvBWUdQs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKmbBN-qtP7eAs-r_jzLz9LzOWwEkkBSGuwjkkkvtklhAiEApMSNw9dNW7ylejxBeEaZ0Y_1Zfa9TQkCgoh0SeGqRY4%3D/file/index.m3u8
