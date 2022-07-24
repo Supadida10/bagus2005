@@ -1345,17 +1345,8 @@ LIVE EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/index_6.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT", BORNEO FC VS AREMA FC
-https://etus.link/briliga1
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",BHAYANGKARA VS PERSIB
 https://etus.link/briliga1
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT", TOKYO VERDY VS YOKOHAMA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658674410/ei/igjdYoy-LtWB4-EPpq-moAQ/ip/103.127.65.57/id/K0ThrwOLD-E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/gcr/id/spc/lT-KhmFDvG_4YOVGFIlSS1qPGbP0Av39iqngKvBWUdQs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKmbBN-qtP7eAs-r_jzLz9LzOWwEkkBSGuwjkkkvtklhAiEApMSNw9dNW7ylejxBeEaZ0Y_1Zfa9TQkCgoh0SeGqRY4%3D/file/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT", HONGKONG W VS SOUTH KOREA W
-https://bf.mzbox.net/live/5000615.m3u8?txSecret=8b45351c380b390b3fdcaf1a6707d420&txTime=62dceeda
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT", JAPAN W VS CHINA W
-http://group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Live_Streaming_1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",EFOOTBALL 22
+https://video-weaver.jkt01.hls.ttvnw.net/v1/playlist/Cs8EP1xk9NZcEpePSiiKAxWBch2TzGB2-KB0vOmnfDvU7ZWrekObH5pJJs_jhChAxmsIknZa8bEp-2oVb9UwT8FkGyIWpIaD0ELn8Y3jV4ZJ_1U0LGyzl-CaL3anL3PfO6Q0dhOYn3oOPtRV42WQABkgSvgRlpluFr3Uwasb7deHnogTwyspJX8aoUsjnGqZ9a8bIn29f_dRyb9ByEXKarH5Qq1iFtDP82co2a-kxQhth8O-fVEXnr1QZYYuFSDmjjM69_o15dRYJmK6RQmQHS2F_ojEhC3Duc8KUYarPAR1yVsdxUC0qn0SI9fxKh2GV1lnux10Ya1TfGIe0PPJF5eiPQgHPcXbj1kgp6n3X_w5Nz0GmqejLcDhZ-fAaLpixCI7Wark9vZhekks7CtMtoFKNh73bqbYSJ9bTknaBvFCfNPWRGuEUNEm8vp-HkDFz8jmIOf6ZVCDTEjYrFx5VCvhBq8trDqwIcjZ15DNtXkcLd9VDBjm_3Abr037l8HCmjetN3vrdmqb5-2oOCWT2uSQg_3ac8F_E-lvpUnzpuafIZkxIipIODZGank7V7L3S3neeVIKpDJwOeF2ZWOBSLCuIhRnTRNpoE2nLw_-G00sRVFXwmFyeWgXkHarOtIkO0eGRhxfcC2uLd9s0r_z2XyP94VwMi3J8RYZy6JerLzrpQwsto7n9y9bK1kLdte28pesjJ5OOUZULJveqhInpOE6evIT_kEjapQm91UjYhlH8qA7o8W-eH3Zn1FeidipdhngE7pIjV17rlklmDgA0wL9GgwC7tr8E-8A8d6r75YgASoJZXUtd2VzdC0yMKIE.m3u8
