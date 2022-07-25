@@ -1345,8 +1345,5 @@ LIVE EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/index_6.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",BHAYANGKARA VS PERSIB
-https://etus.link/briliga1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",GAMBA OSAKA VS PSG
-https://bf2.mzbox.net/live/sd-1-3779848.m3u8?txSecret=38332caffcc8f864f1ff19ef8e1e3ea6&txTime=62de6a7f
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",PERSIK VS PERSITA
+https://pili-live-hdl.tuantuan3.com/tuantuan3-com/sd-1-3781768.flv?sign=b43eb167fd0a28c640ebdc4efaea9e68&t=62de8f23&m=1
