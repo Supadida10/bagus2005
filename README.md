@@ -1348,5 +1348,5 @@ https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/in
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",BHAYANGKARA VS PERSIB
 https://etus.link/briliga1
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",BADMINTON ARTIS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658686677/ei/dTjdYtzsIcq24wLUs4Mw/ip/103.127.65.57/id/Yr46oaZHs-Q.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/spc/lT-Khrt87aWZyY8sI-8S3p2JqOxUUumjyq6hxXEobIxb/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAITrTX0gSXaxjnWb6WSURspErZdb83AY9iIcpjy-xBYYAiBK4k1Uk5yJ-0wUlU-gijYpjAe7tLQG4UjpOAiErEjMpQ%3D%3D/file/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",GAMBA OSAKA VS PSG
+https://bf2.mzbox.net/live/sd-1-3779848.m3u8?txSecret=38332caffcc8f864f1ff19ef8e1e3ea6&txTime=62de6a7f
