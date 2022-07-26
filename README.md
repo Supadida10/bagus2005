@@ -751,13 +751,13 @@ https://srv.vhls.ru.com/cdn/premium90/tracks-v1a1/mono.m3u8
 https://srv.vhls.ru.com/cdn/premium46/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wMGVStb6/Round-Photo-Jul092022-023521.png" group-title="SPORTS",футбол 1
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5456
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/243485
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/q7xGpDZD/Round-Photo-Jul092022-023633.png" group-title="SPORTS",футбол 2
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5461
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/243486
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rwS19Ycy/Round-Photo-Jul092022-023740.png" group-title="SPORTS",футбол 3
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5458
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/243487
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZm4RCVX/Round-Photo-Jul092022-023927.png" group-title="SPORTS",матч арена
 http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/34075
@@ -807,10 +807,10 @@ https://etus.link/ds_assp4
 https://etus.link/ds_assp5
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZnzB0ps7/Round-Photo-Jul092022-025636.png" group-title="SPORTS",ASTRO ARENA 1
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157485
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/157485.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZnzB0ps7/Round-Photo-Jul092022-025636.png" group-title="SPORTS",ASTRO ARENA 2
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/287793
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/287793.m3u83
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Z5QqC6C8/Round-Photo-Jul092022-025901.png" group-title="SPORTS",SONY TEN 1
 https://etus.link/ts_sonyten1
@@ -870,7 +870,7 @@ http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246646
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/W359mpgP/Round-Photo-Jul092022-033111.png" group-title="SPORTS",SPORT TV 5
 #EXTVLCOPT:http-referrer=https://jl532y2vc161xk.smokelearned.net/
-http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246645
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1495.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
