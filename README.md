@@ -810,7 +810,7 @@ https://etus.link/ds_assp5
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/157485.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZnzB0ps7/Round-Photo-Jul092022-025636.png" group-title="SPORTS",ASTRO ARENA 2
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/287793.m3u83
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/287793.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Z5QqC6C8/Round-Photo-Jul092022-025901.png" group-title="SPORTS",SONY TEN 1
 https://etus.link/ts_sonyten1
