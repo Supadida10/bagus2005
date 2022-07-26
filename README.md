@@ -8,6 +8,7 @@ INDONESIA
 #EXTINF:0 tvg-id="TVRINasional.id" tvg-name="" tvg-logo="https://i.postimg.cc/26kf0Yzw/Round-Photo-Jul072022-074503.png" group-title="INDONESIA",TVRI NASIONAL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="RCTI.id" tvg-name="" tvg-logo="https://i.postimg.cc/GpjW8fks/Round-Photo-Jul072022-074634.png" group-title="INDONESIA",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
@@ -812,13 +813,13 @@ http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157485
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/287793
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Z5QqC6C8/Round-Photo-Jul092022-025901.png" group-title="SPORTS",SONY TEN 1
-http://182.50.65.213:8888/udp/239.239.0.33:3001
+https://etus.link/ts_sonyten1
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CMJSRb2R/Round-Photo-Jul092022-030122.png" group-title="SPORTS",SONY TEN 2 
-http://182.50.65.213:8888/udp/239.239.0.34:3001
+https://etus.link/ts_sonyten2
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8PjQs9WY/Round-Photo-Jul092022-030246.png" group-title="SPORTS",SONY TEN 3
-http://182.50.65.213:8888/udp/239.239.0.35:3001
+https://etus.link/ts_sonyten3
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vT4qHRjL/Round-Photo-Jul092022-030448.png" group-title="SPORTS",BT SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1060,9 +1061,7 @@ https://srv.vhls.ru.com/cdn/premium149/tracks-v1a1/mono.m3u8
 https://srv.vhls.ru.com/cdn/premium150/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cLHgMzJY/Round-Photo-Jul242022-092828.png" group-title="SPORTS", PREMIER SPORT 1 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium451/tracks-v1a1/mono.m3u8
+http://iptv.cremtv.com:2052/live/wanaiptv/wanaiptv/239171.ts
 
 MOVIES & ENTERTAINMENT
 
