@@ -1348,5 +1348,5 @@ LIVE EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/index_6.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",PERSIK VS PERSITA
-https://pili-live-hdl.tuantuan3.com/tuantuan3-com/sd-1-3781768.flv?sign=b43eb167fd0a28c640ebdc4efaea9e68&t=62de8f23&m=1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",KOREA W VS TAIWAN W
+https://bf2.mzbox.net/live/5000615.m3u8?txSecret=22db38d847f70d3451b4c8b661a40a38&txTime=62df913e
