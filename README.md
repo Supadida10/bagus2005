@@ -823,18 +823,17 @@ https://etus.link/ts_sonyten3
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vT4qHRjL/Round-Photo-Jul092022-030448.png" group-title="SPORTS",BT SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://etus.link/ds_btsport1
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/239063
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YCH589Z5/Round-Photo-Jul092022-030622.png" group-title="SPORTS",BT SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://etus.link/ds_btsport2
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/239064
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bY1LgTPv/Round-Photo-Jul092022-030801.png" group-title="SPORTS",BT SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://etus.link/ds_btsport3
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/239065
 
 #EXTINF:0 tvg-id="SPOTV.kr" tvg-name="" tvg-logo="https://i.postimg.cc/fTBcqqrM/Round-Photo-Jul092022-031005.png" group-title="SPORTS",SPO TV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -857,21 +856,21 @@ https://srv.vhls.ru.com/cdn/premium49/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BbtKr4ys/Round-Photo-Jul092022-032541.png" group-title="SPORTS",SPORT TV 2
 #EXTVLCOPT:http-referrer=https://jl532y2vc161xk.smokelearned.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/sport2
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246649
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CPMRRHj/Round-Photo-Jul092022-032726.png" group-title="SPORTS",SPORT TV 3
 #EXTVLCOPT:http-referrer=https://jl532y2vc161xk.smokelearned.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/sport3u8
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246647
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bwvwL37c/Round-Photo-Jul092022-032921.png" group-title="SPORTS",SPORT TV 4
 #EXTVLCOPT:http-referrer=https://jl532y2vc161xk.smokelearned.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/sport4u8
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246646
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/W359mpgP/Round-Photo-Jul092022-033111.png" group-title="SPORTS",SPORT TV 5
 #EXTVLCOPT:http-referrer=https://jl532y2vc161xk.smokelearned.net/
-https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/sport5
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246645
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
