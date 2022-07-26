@@ -1350,3 +1350,6 @@ https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/in
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",GYEONGNAM VS ANSAN GREENERS
 https://bf2.mzbox.net/live/5000615.m3u8?txSecret=e5a5a4b51371d590a3871caa2b2b49a6&txTime=62dfbca7
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",JAPAN W VS CHINA W
+https://bf2.mzbox.net/live/sd-1-3726333.m3u8?txSecret=351b4ea9eaa07fbc010a304d60be2523&txTime=62dfc074
