@@ -750,14 +750,14 @@ https://srv.vhls.ru.com/cdn/premium90/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://srv.vhls.ru.com/cdn/premium46/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wMGVStb6/Round-Photo-Jul092022-023521.png" group-title="SPORTS",футбол 1
-http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/243485
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wMGVStb6/Round-Photo-Jul092022-023521.png" group-title="SPORTS",футбол 1
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5456
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/q7xGpDZD/Round-Photo-Jul092022-023633.png" group-title="SPORTS",футбол 2
-http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/243486
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5461
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rwS19Ycy/Round-Photo-Jul092022-023740.png" group-title="SPORTS",футбол 3
-http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/243487
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5458
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZm4RCVX/Round-Photo-Jul092022-023927.png" group-title="SPORTS",матч арена
 http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/34075
