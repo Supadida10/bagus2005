@@ -856,17 +856,17 @@ https://srv.vhls.ru.com/cdn/premium49/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BbtKr4ys/Round-Photo-Jul092022-032541.png" group-title="SPORTS",SPORT TV 2
 #EXTVLCOPT:http-referrer=https://jl532y2vc161xk.smokelearned.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246649
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1486.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CPMRRHj/Round-Photo-Jul092022-032726.png" group-title="SPORTS",SPORT TV 3
 #EXTVLCOPT:http-referrer=https://jl532y2vc161xk.smokelearned.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246647
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1489.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bwvwL37c/Round-Photo-Jul092022-032921.png" group-title="SPORTS",SPORT TV 4
 #EXTVLCOPT:http-referrer=https://jl532y2vc161xk.smokelearned.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246646
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1492.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/W359mpgP/Round-Photo-Jul092022-033111.png" group-title="SPORTS",SPORT TV 5
 #EXTVLCOPT:http-referrer=https://jl532y2vc161xk.smokelearned.net/
