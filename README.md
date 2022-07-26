@@ -750,7 +750,7 @@ https://srv.vhls.ru.com/cdn/premium90/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://srv.vhls.ru.com/cdn/premium46/tracks-v1a1/mono.m3u8
 
-EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wMGVStb6/Round-Photo-Jul092022-023521.png" group-title="SPORTS",футбол 1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wMGVStb6/Round-Photo-Jul092022-023521.png" group-title="SPORTS",футбол 1
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5456
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/q7xGpDZD/Round-Photo-Jul092022-023633.png" group-title="SPORTS",футбол 2
