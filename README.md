@@ -1346,8 +1346,5 @@ LIVE EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/index_6.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",GYEONGNAM VS ANSAN GREENERS
-https://bf2.mzbox.net/live/5000615.m3u8?txSecret=e5a5a4b51371d590a3871caa2b2b49a6&txTime=62dfbca7
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",JAPAN W VS CHINA W
-https://bf2.mzbox.net/live/sd-1-3726333.m3u8?txSecret=351b4ea9eaa07fbc010a304d60be2523&txTime=62dfc074
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",PSM VS BALI UNITED
+https://video-weaver.jkt01.hls.live-video.net/v1/playlist/CtcF2NB8liX1RvhbwKsJaYvACsknOFbFHJ5y-_xT-cgATE3LEWlikN8nagw9vlmomh7WnSPVFs1UAmlER5wvzOWFy5T8HrL6vZceMXgMkY1qzWpu0dyJZcMKLEWsgqZejD1ahUuRqEcesIJMnDR-6Jmdh92ZzWT44A72obOxnPSXXD2pSZ7kHFTYLIAau5pTXpiPtJCVu8QNjxul5sV8j5s7YrrhiQj1E3iRDLIu_e3Ig2OwgGpUdUSzW20QTrcrCTIwU78HZvP3U__6AbxE1Kd9kM3TGoi4f3gKCMNubcr90GhnQiEJd41Ss-TxleakgrXyqzuSkZrPtcTlxqO-NaTau1ntbDlkw6nDoOGUrNDMO9176fR_q_onIyONGSCnYycvaFNb7TAKo8dQZD32wYo2GRriLDVNcmCN5f4h0ZD_VwALd0dax3nWaPDv-z0YbQzlJLj0EvOwblDXJlZJFEMHJ8AVw2EJvDCeZt5gxtsd_ULcC3MXnkUWEkKA3MfUNkGrxsoGg7fZwAMl8jMQpWIhMtlxRBm49Deyhx1REi_GGZ-_WitWSSnXBBHhlodnWvpi2vWpNaQzEbxi5iXJww4dYe28ndimyB_5Boql5AxRlgykiXijdTAktODKg-qlA5JDNSxPeTn2Wi6kVEKTYu_jhCPrrB3v0a-0ie3-O-nwskE2Jo7s_h4x4WP3Sosu59dSpDZsI7t89f-_i-LwhXdiRvI5QjpJbW65n_JmD35vglt2FULusmgYlMRz_8zVkT940rCLdcUL1h9lYeqXlbuKqONvIuzlJDqElCKbN_JJlriKwfFBPpxjomBTCbU74KEXT75pI0miAijkqwLEalIjVKq0xnvTbafNq9336ja5JY21aTLQCJ6OolckdbVYq07Vc7x4ZHawdRq5Uuy_ACI2A1acfSP2b6vQ1jWzq4tJYx1rpNDzpuilku8EaBIHNrlw5fhD3pXyMhoMDPZbNSy-cnOGaEiqIAEqCXVzLXdlc3QtMjCmBA.m3u8
