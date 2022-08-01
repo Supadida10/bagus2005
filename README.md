@@ -813,13 +813,13 @@ http://iptvtree.net:8080/live/iptvromania2020/31e75bff/157485.m3u8
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/287793.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Z5QqC6C8/Round-Photo-Jul092022-025901.png" group-title="SPORTS",SONY TEN 1
-https://etus.link/ts_sonyten1
+http://ku03.wanicelife.com:8880/live/12m0525/772229617/1903.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CMJSRb2R/Round-Photo-Jul092022-030122.png" group-title="SPORTS",SONY TEN 2 
-https://etus.link/ts_sonyten2
+http://ku03.wanicelife.com:8880/live/12m0525/772229617/1904.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8PjQs9WY/Round-Photo-Jul092022-030246.png" group-title="SPORTS",SONY TEN 3
-https://etus.link/ts_sonyten3
+http://ku03.wanicelife.com:8880/live/12m0525/772229617/1902.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vT4qHRjL/Round-Photo-Jul092022-030448.png" group-title="SPORTS",BT SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
