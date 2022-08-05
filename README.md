@@ -167,24 +167,6 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0QS94sFK/Round-Photo-Jul072022-092853.png" group-title="MALAYSIA",SUKAN
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/1XdhBwxC/Round-Photo-Jul192022-162020.png" group-title="MALAYSIA",ASTRO AWANI
-https://smetv.live:443/play/TaQbJlzWEg0sp8nPWkQ28FQM4z5eXoL7dlDcHWpYXjM
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dt8D3V8M/Round-Photo-Jul192022-162526.png" group-title="MALAYSIA",ASTRO CERIA
-https://smetv.live:443/play/TaQbJlzWEg0sp8nPWkQ28JLnl_C9EKslJCeTwbEZBDo
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rppS5rJR/Round-Photo-Jul192022-162857.png" group-title="MALAYSIA",ASTRO OASIS
-https://smetv.live:443/play/TaQbJlzWEg0sp8nPWkQ28IG8CW1OArnLYGx9Lkv-DIM
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLFkqH55/Round-Photo-Jul192022-163953.png" group-title="MALAYSIA",ASTRO PRIMA
-https://smetv.live:443/play/TaQbJlzWEg0sp8nPWkQ28Jji57hQDTJKzaAsLc-g-dg
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/WpmvCWgV/Round-Photo-Jul192022-164245.png" group-title="MALAYSIA",ASTRO TA-DAA
-https://smetv.live:443/play/TaQbJlzWEg0sp8nPWkQ28ArcGuU4WEfGuVGS8Bxp03M
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Mp2rwqSr/Round-Photo-Jul192022-164610.png" group-title="MALAYSIA",ASTRO WARNA
-https://smetv.live:443/play/TaQbJlzWEg0sp8nPWkQ28PLhyrvmquoebpycFvM9XGI
-
 THAILAND
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml"
@@ -949,7 +931,7 @@ https://srv.vhls.ru.com/cdn/premium418/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://srv.vhls.ru.com/cdn/premium419/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T2Svjjnh/Round-Photo-Jul102022-124709.png" group-title="SPORTS",SKYSPORTS EPL
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T2Svjjnh/Round-Photo-Jul102022-124709.png" group-title="SPORTS",SKYSPORTS PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://srv.vhls.ru.com/cdn/premium130/tracks-v1a1/mono.m3u8
@@ -1348,5 +1330,5 @@ LIVE EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/index_6.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",BALI UNITED VS RANS FC
-https://samirian@venus.meta-scores.com/abddb755d1/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",ARSENAL VS CRYSTAL PALACE
+https://bf2.feisuzb.cn/live/5000783.m3u8?txSecret=b311848ca12b6bbdc57c5516bfff382c&txTime=62ed6738
