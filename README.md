@@ -1331,4 +1331,4 @@ LIVE EVENT
 https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/index_6.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",ARSENAL VS CRYSTAL PALACE
-https://bf2.feisuzb.cn/live/5000783.m3u8?txSecret=b311848ca12b6bbdc57c5516bfff382c&txTime=62ed6738
+https://pull.jljiapu.com/leisu/1117712133393162.flv?auth_key=1659742260-0-0-33ef5799b95afcca5e5aac11fee97993
