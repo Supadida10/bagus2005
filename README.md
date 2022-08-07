@@ -165,7 +165,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0QS94sFK/Round-Photo-Jul072022-092853.png" group-title="MALAYSIA",SUKAN
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2496000_slENG.m3u8
 
 THAILAND
 
@@ -830,7 +830,7 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0QS94sFK/Round-Photo-Jul072022-092853.png" group-title="SPORTS",SUKAN
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2496000_slENG.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T1kcbk82/Round-Photo-Jul092022-032331.png" group-title="SPORTS",SPORT TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
