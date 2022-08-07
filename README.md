@@ -215,7 +215,7 @@ KOREA
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fW6NVXQs/Round-Photo-Jul072022-134759.png" group-title="KOREA",K+
-https://nonton.site:8443/live/mustakim/mustakim/18.m3u8
+https://mdllogistik.my.id/tetes/redir.php?acesso=d608dfcb29c6c8fbd2681ded992cb58b&usuario=b1d6083cffd84b8ab16d046783930ef9
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/05DNqngS/Round-Photo-Jul072022-134926.png" group-title="KOREA",ARIRANG TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -802,14 +802,25 @@ https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZnzB0ps7/Round-Photo-Jul092022-025636.png" group-title="SPORTS",ASTRO ARENA 2
 https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/astroarena2
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Z5QqC6C8/Round-Photo-Jul092022-025901.png" group-title="SPORTS",SONY TEN 1
-http://ku03.wanicelife.com:8880/live/12m0525/772229617/1903.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-id="SonySix.in" tvg-logo="https://i.ibb.co/KyYVc6h/Desain-tanpa-judul-52-modified.png" group-title="SPORTS",SONY SIX
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CMJSRb2R/Round-Photo-Jul092022-030122.png" group-title="SPORTS",SONY TEN 2 
-http://ku03.wanicelife.com:8880/live/12m0525/772229617/1904.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://i.ibb.co/dGXMK2m/Desain-tanpa-judul-53-modified.png" group-title="SPORTS",SONY TEN 1
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8PjQs9WY/Round-Photo-Jul092022-030246.png" group-title="SPORTS",SONY TEN 3
-http://ku03.wanicelife.com:8880/live/12m0525/772229617/1902.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-id="SonyTen2.in" tvg-logo="https://i.ibb.co/vcvx0yL/Desain-tanpa-judul-54-modified.png" group-title="SPORTS",SONY TEN 2
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="https://i.ibb.co/MBC88gg/Desain-tanpa-judul-55-modified.png" group-title="SPORTS",SONY TEN 3
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vT4qHRjL/Round-Photo-Jul092022-030448.png" group-title="SPORTS",BT SPORT 1
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
