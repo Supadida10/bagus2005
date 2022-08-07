@@ -138,19 +138,19 @@ MALAYSIA
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml"
 
 #EXTINF:0 tvg-id="RTMTV1.my" tvg-name="" tvg-logo="https://i.postimg.cc/tT26vFxM/Round-Photo-Jul072022-085911.png group-title="MALAYSIA",TV 1
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:0 tvg-id="RTMTV2.my" tvg-name="" tvg-logo="https://i.postimg.cc/Sj0cck8S/Round-Photo-Jul072022-090637.png" group-title="MALAYSIA",TV 2
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2496000_slENG.m3u8
 
 #EXTINF:0 tvg-id="TV3.my" tvg-name="" tvg-logo="https://i.postimg.cc/R095Xt9f/Round-Photo-Jul072022-091505.png" group-title="MALAYSIA",TV 3
-https://smetv.live:443/play/TaQbJlzWEg0sp8nPWkQ28Ltu0zEjTZcwIl3OYbJ0Qo0
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:0 tvg-id="RTMTVOkey.my" tvg-name="" tvg-logo="https://i.postimg.cc/HnFF5cBr/Round-Photo-Jul072022-091615.png" group-title="MALAYSIA",OKEY TV
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2496000_slENG.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CKGc5Q6/Round-Photo-Jul072022-091740.png" group-title="MALAYSIA",TV 6
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2496000_slENG.m3u8
 
 #EXTINF:0 tvg-id="TV9.my" tvg-name="" tvg-logo="https://i.postimg.cc/253JH7M1/Round-Photo-Jul072022-092025.png" group-title="MALAYSIA",TV 9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
