@@ -1525,5 +1525,5 @@ LIVE EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/index_6.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",INDONESIA VS VIETNAM
-https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/live/live1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",INDONESIA VS MYANMAR
+https://etslive-2-vidio-com.akamaized.net/exp=1660149899~acl=/hls-p/ingest_6685_*/*~hmac=c8d0d4b6ceac13f2251f755ea1378c984fa41b4833683f2ede25c69c2090852d/hls-p/ingest_6685_720p/index.m3u8
