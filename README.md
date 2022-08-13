@@ -886,7 +886,7 @@ https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="MNCSports3.id" tvg-name="" tvg-logo="https://i.postimg.cc/Hk05rPdX/Round-Photo-Jul092022-114623.png"group-title="SPORTS",MNC SPORTS 3
+#EXTINF:0 tvg-id="MNCSports3.id" tvg-name="" tvg-logo="https://i.postimg.cc/Hk05rPdX/Round-Photo-Jul092022-114623.png group-title="SPORTS",MNC SPORTS 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 
