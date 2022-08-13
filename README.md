@@ -763,7 +763,7 @@ https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J4HScJn7/Round-Photo-Jul092022-024614.png" group-title="SPORTS",SPORTS TV TR
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.ibb.co/Jx9LQWw/tennis-channel-modified.png" group-title="Olahraga",Tennis Channel
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.ibb.co/Jx9LQWw/tennis-channel-modified.png" group-title="SPORTS",TENNIS CHANNEL
 https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/t.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png" group-title="SPORTS",ASTRO SUPERSPORT 1
