@@ -1246,9 +1246,6 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:0 tvg-id="CelestialClassicMovies.hk" tvg-name="" tvg-logo="https://i.postimg.cc/0N3RgnFK/Round-Photo-Jul092022-110229.png" group-title="MOVIES & ENTERTAINMENT"CELESTIAL CLASSIC MOVIES
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:0 tvg-id="chinesedrama.cn" tvg-name="" tvg-logo="https://i.postimg.cc/59BQ1SZ1/Round-Photo-Aug142022-175305.png" group-title="MOVIES & ENTERTAINMENT"CHINESE DRAMA
-http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="CelestialMoviesIndonesia.id" tvg-name="" tvg-logo="https://i.postimg.cc/135LfbZN/Round-Photo-Jul092022-110349.png" group-title="MOVIES & ENTERTAINMENT",CELESTIAL MOVIES
@@ -1304,10 +1301,8 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:0 tvg-id="Kix.hk" tvg-name="" tvg-logo="https://i.postimg.cc/qRNd5S73/Round-Photo-Jul092022-112617.png" group-title="MOVIES & ENTERTAINMENT",KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fTnh8HQV/Round-Photo-Jul092022-112721.png" group-title="MOVIES & ENTERTAINMENT",STAR CHINESE MOVIES
-https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/59BQ1SZ1/Round-Photo-Aug142022-175305.png" group-title="MOVIES & ENTERTAINMENT",CHINESE DRAMA
+http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
