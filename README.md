@@ -186,7 +186,7 @@ https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
 https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="" tvg-logo="https://i.postimg.cc/RZ95St8F/Round-Photo-Jul072022-094037.png" group-title="THAILAND",AMARIN TV
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115608
+http://61.19.242.134/feed/202105171329/chamarin/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-name="" tvg-logo="https://i.postimg.cc/qM6Mh2jx/Round-Photo-Jul072022-094207.png" group-title="THAILAND",CH 3
 http://host4.dynns.com/mlIkk/a4485b656d764f308c63b14a8bf62326.m3u8
@@ -207,7 +207,7 @@ https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
 https://freelive2.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="" tvg-logo="https://i.postimg.cc/vTbH6mHL/Round-Photo-Jul072022-095518.png" group-title="THAILAND",PPTV 36
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/36/36.mpd
+http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
 
 KOREA
 
