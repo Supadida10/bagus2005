@@ -1037,48 +1037,48 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6pgTyWLd/Round-Photo-Jul182022-211231.png" group-title="SPORTS",GOL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium530/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
+https://best2.globalweb.ru.com/cdn/premium530/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6Tx5yQSt/Round-Photo-Jul222022-230735.png" group-title="SPORTS",SPORT KLUB 1
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
 https://best2.globalweb.ru.com/cdn/premium101/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wvJX1wTN/Round-Photo-Jul222022-231054.png" group-title="SPORTS",SPORT KLUB 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium102/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
+https://best2.globalweb.ru.com/cdn/premium102/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/L6zmxLhV/Round-Photo-Jul222022-231925.png" group-title="SPORTS",SPORT KLUB 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium103/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
+https://best2.globalweb.ru.com/cdn/premium103/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2Sb7pjRT/Round-Photo-Jul222022-232120.png" group-title="SPORTS",SPORT KLUB 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium104/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
+https://best2.globalweb.ru.com/cdn/premium104/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fLJXtBbv/Round-Photo-Jul242022-031508.png" group-title="SPORTS",TUDN USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
+https://best2.globalweb.ru.com/cdn/premium66/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Y9vWzKkp/Round-Photo-Jul242022-091742.png" group-title="SPORTS",TVP SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium128/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
+https://best2.globalweb.ru.com/cdn/premium128/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/yxTKGPGj/Round-Photo-Jul172022-030613.png" group-title="SPORTS",ESPN 1 SUR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium149/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
+https://best2.globalweb.ru.com/cdn/premium149/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/yxTKGPGj/Round-Photo-Jul172022-030613.png" group-title="SPORTS",ESPN 2 SUR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://srv.vhls.ru.com/cdn/premium150/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
+https://best2.globalweb.ru.com/cdn/premium150/mono.m3u8
 
 #EXTINF:-1 tvg-id="UseeSports.dukun" tvg-logo="https://i.ibb.co/wcyS6n2/Desain-tanpa-judul-82-modified.png" group-title="SPORTS", USEE SPORTS 1
 #EXTVLCOPT:http-user-agent=asade
@@ -1246,6 +1246,9 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:0 tvg-id="CelestialClassicMovies.hk" tvg-name="" tvg-logo="https://i.postimg.cc/0N3RgnFK/Round-Photo-Jul092022-110229.png" group-title="MOVIES & ENTERTAINMENT"CELESTIAL CLASSIC MOVIES
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
+#EXTINF:0 tvg-id="chinesedrama.cn" tvg-name="" tvg-logo="https://i.postimg.cc/59BQ1SZ1/Round-Photo-Aug142022-175305.png" group-title="MOVIES & ENTERTAINMENT"CHINESE DRAMA
+http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="CelestialMoviesIndonesia.id" tvg-name="" tvg-logo="https://i.postimg.cc/135LfbZN/Round-Photo-Jul092022-110349.png" group-title="MOVIES & ENTERTAINMENT",CELESTIAL MOVIES
@@ -1376,6 +1379,47 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:0 tvg-id="OneTVAsia.sg" tvg-name="" tvg-logo="https://i.postimg.cc/MTdj9kg8/Round-Photo-Jul092022-094205.png" group-title="MOVIES & ENTERTAINMENT",ONE
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
+#EXTINF:-1 tvg-id="KDrama.id" tvg-logo="https://i.ibb.co/s6zxL98/K-drama-logo-modified.png" group-title="MOVIES & ENTERTAINMENT",K D
+http://203.77.246.50:5000/udp/239.1.1.76:5000
+
+#EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://i.ibb.co/tcZQSMd/Desain-tanpa-judul-80-modified.png" group-title="MOVIES & ENTERTAINMENT",GEN
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/hiburan/gem.m3u8
+
+#EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-logo="https://i.ibb.co/hyN4tn3/6d2b73-modified.png" group-title="MOVIES & ENTERTAINMENT",ROCK ENTERTAINMENT
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/hiburan/rockex.m3u8
+
+#EXTINF:-1 tvg-id="RockExtreme.sg" tvg-logo="https://thumbor.prod.vidiocdn.com/evo4ygNACDOou93AiTxBSlw6wrs=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8120/8d7f22.png" group-title="MOVIES & ENTERTAINMENT",ROCK EXTREME
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/hiburan/rocken.m3u8
+
+#EXTINF:-1 tvg-id="CitraDrama.id" tvg-logo="https://thumbor.prod.vidiocdn.com/vrmDRqwZOsoYOuyV_hfOtFs8bJo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6401/5b4d40.png" group-title="MOVIES & ENTERTAINMENT",CITRA DRAMA
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/hiburan/cdrama.m3u8
+
+#EXTINF:-1 tvg-id="CitraDangdut.id" tvg-logo="https://thumbor.prod.vidiocdn.com/dfxtzulRmK4-cAUvo30s9VoSwbc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6587/8742fe.png" group-title="MOVIES & ENTERTAINMENT",CITRA DANGDUT
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/hiburan/cdangdut.m3u8
+
+#EXTINF:-1 tvg-id="CitraCulinaryTravel.id" tvg-logo="https://i.ibb.co/K0pRgQ1/15f712-modified.png" group-title="Hiburan",Citra Culinary & Travel
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/hiburan/ctravel.m3u8
+
+#EXTINF:-1 tvg-id="CitraMuslim.id" tvg-logo="https://thumbor.prod.vidiocdn.com/s6WSgBPwJHnY4vughTA-IkeRG40=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6678/154a43.png" group-title="MOVIES & ENTERTAINMENT",CITRA MUSLIM
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/hiburan/cmuslim.m3u8
+
+#EXTINF:-1 tvg-id="CitraEntertainment.id" tvg-logo="https://i.ibb.co/nncMTg1/Desain-tanpa-judul-14-modified.png" group-title="Hiburan",Citra Entertainment
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/hiburan/centertainment.m3u8
+
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="MOVIES & ENTERTAINMENT",MENTARI TV
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/hiburan/mentari.m3u8
+
+#EXTINF:-1 tvg-id="ZingAsia.in" tvg-logo="https://thumbor.prod.vidiocdn.com/-st4hraUbJ7qBwCE39Teh0rFF8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6747/b60a5a.png" group-title="MOVIES & ENTERTAINMENT",ZING
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/hiburan/zing.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVLOriginal.fr" tvg-logo="https://thumbor.prod.vidiocdn.com/vo4nX_9DXfkHYpd2gpeqFdHYu_w=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6507/d29206.png" group-title="MOVIES & ENTERTAINMENT",FASHION TV L'ORIGINAL
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/hiburan/fori.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-logo="https://thumbor.prod.vidiocdn.com/P5NhMEunwYyNqtqtuR7vYbnPC-0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6511/4dd1c5.png" group-title="MOVIES & ENTERTAINMENT",FASHION TV - GLOBAL
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/hiburan/fasia.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://thumbor.prod.vidiocdn.com/SBA2A3aIpB-X9KqPXj5zr-QQQTQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6504/d227d2.png" group-title="MOVIES & ENTERTAINMENT",FASHION TV  MIDNIGHT  SECRETS
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/hiburan/fsecret.m3u8
 
 KIDS
 
