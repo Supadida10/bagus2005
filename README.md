@@ -16,7 +16,7 @@ https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/mgZLd78M/Round-Photo-Jul072022-074803.png" group-title="INDONESIA",MNCTV
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV.id" tvg-logo="https://i.postimg.cc/mgZLd78M/Round-Photo-Jul072022-074803.png" group-title="INDONESIA",MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -417,7 +417,9 @@ CHINA
 http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/x8bGts9f/Round-Photo-Jul072022-203231.png" group-title="CHINA",CCTV 2
-http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://tv.cctv.com/
+https://cctvwbcdkshw.v.kcdnvip.com/cctvwbcd/cdrmcctv2_1/index.m3u8?b=200-1600
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gk7745dh/Round-Photo-Jul072022-203826.png" group-title="CHINA",CCTV 3
 http://111.40.196.29/PLTV/88888888/224/3221225588/index.m3u8?
