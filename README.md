@@ -738,12 +738,12 @@ https://best2.globalweb.ru.com/cdn/premium61/mono.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.ibb.co/F8NHsWC/Desain-tanpa-judul-38-modified.png" group-title="SPORTS",BEIN SPORT 2 ENG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium62/mono.m3u8
+https://best2.globalweb.ru.com/cdn/premium90/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.ibb.co/4jmb5ws/Desain-tanpa-judul-37-modified.png" group-title="SPORTS",BEIN SPOR5 3 ENG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium63/mono.m3u8
+https://best2.globalweb.ru.com/cdn/premium46/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wMGVStb6/Round-Photo-Jul092022-023521.png" group-title="SPORTS",футбол 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -871,7 +871,7 @@ https://best2.globalweb.ru.com/cdn/premium49/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3MMjPPW/tv-station-pt-sport-tv-2-451-modified.png" group-title="SPORTS",SPORT TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium50/mono.m3u8
+https://best2.globalweb.ru.com/cdn/premium74/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DKf53KW/a452-modified.png" group-title="SPORTS",SPORT TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -918,9 +918,6 @@ https://www.streambayu.xyz/vidio/champions2.m3u8
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png" group-title="SPORTS",CHAMPIONS TV 3
 https://www.streambayu.xyz/vidio/champions3.m3u8
 
-#EXTINF:-1 tvg-id="ChampionsTVGoal.id" tvg-logo="https://thumbor.prod.vidiocdn.com/LleNBdFSjLeakChDVn7zYWPf87k=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9045/1ef303.png" group-title="SPORTS",CHAMPIONS TV GOAL
-https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/champgoaletdahluapainnih.m3u8
-
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-logo="https://i.ibb.co/ct8gJqp/download-37-modified.png" group-title="SPORTS",RMC SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=hhttps://eplayer.click/
@@ -930,12 +927,6 @@ https://best2.globalweb.ru.com/cdn/premium119/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=hhttps://eplayer.click/
 https://best2.globalweb.ru.com/cdn/premium120/mono.m3u8
-
-#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-logo="https://i.ibb.co/YBNdCKw/tv-station-rmc-sport-3-1429-modified.png" group-title="SPORTS",RMC SPORT 3
-https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/rmc3
-
-#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-logo="https://i.ibb.co/fNDwGZT/images-7-modified.png" group-title="SPORTS",RMC SPORT 4
-https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/rmc4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -990,7 +981,7 @@ https://best2.globalweb.ru.com/cdn/premium418/mono.m3u8
 #EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="SPORTS",SUPER SPORT VARIETY 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium418/mono.m3u8
+https://best2.globalweb.ru.com/cdn/premium419/mono.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/88CjXqT/Desain-tanpa-judul-56-modified.png" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1005,7 +996,7 @@ https://best2.globalweb.ru.com/cdn/premium35/mono.m3u8
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://i.ibb.co/6v398mJ/Desain-tanpa-judul-35-modified.png" group-title="SPORTS",SKY SPORTS RACING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium530/mono.m3u8
+https://best2.globalweb.ru.com/cdn/premium554/mono.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.ibb.co/88XwF6F/Desain-tanpa-judul-32-modified.png" group-title="SPORTS",SKY SPORTS F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
