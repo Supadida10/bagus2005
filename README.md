@@ -875,18 +875,18 @@ https://best2.globalweb.ru.com/cdn/premium74/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DKf53KW/a452-modified.png" group-title="SPORTS",SPORT TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium530/mono.m3u8
+#EXTVLCOPT:http-referrer=https://8gj04y7qbd76q4.smokelearned.net/
+https://p6pmhs6xeme9v7pk.cdnexpress23.net:8443/hls/pju8r4rjf4k8a.m3u8?s=mmXPjb7zBtx9ZADWkP5Bhw&e=1660769216
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/xF2Mt8R/download-28-modified.png" group-title="SPORTS",SPORT TV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium530/mono.m3u8
+#EXTVLCOPT:http-referrer=https://8gj04y7qbd76q4.smokelearned.net/
+https://p6pmhs6xeme9v7pk.cdnexpress23.net:8443/hls/6ua5mxm6.m3u8?s=R2RGys0fIAEyyXuV-CixLQ&e=1660769725
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/TvtBR9N/download-29-modified.png" group-title="SPORTS",SPORT TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium530/mono.m3u8
+#EXTVLCOPT:http-referrer=https://8gj04y7qbd76q4.smokelearned.net/
+https://p6pmhs6xeme9v7pk.cdnexpress23.net:8443/hls/jtwv2.m3u8?s=BDLQ3AsGeiimPZU7MUfpzQ&e=1660769841
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
