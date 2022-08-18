@@ -1177,17 +1177,17 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/fox503
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hFVcZKs/Desain-tanpa-judul-98-modified.png" group-title="SPORTS",Fox Sport 504
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hFVcZKs/Desain-tanpa-judul-98-modified.png" group-title="SPORTS",FOX SPORTS 504
 #EXTVLCOPT:http-referrer=https://noob4cast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/fox504
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r7rZg2x/Desain-tanpa-judul-99-modified.png" group-title="SPORTS",Fox Sport 505
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r7rZg2x/Desain-tanpa-judul-99-modified.png" group-title="SPORTS",FOX SPORTS 505
 #EXTVLCOPT:http-referrer=https://noob4cast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/fox505
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PgZ66rg/Desain-tanpa-judul-100-modified.png" group-title="SPORTS",Fox Sport 506
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PgZ66rg/Desain-tanpa-judul-100-modified.png" group-title="SPORTS",FOX SPORTS 506
 #EXTVLCOPT:http-referrer=https://noob4cast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/fox506
