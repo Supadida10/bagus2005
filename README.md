@@ -34,11 +34,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/6pHvzWLW/Round-Photo-Jul072022-080351.png" group-title="INDONESIA",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/6pHvzWLW/Round-Photo-Jul072022-080351.png" group-title="INDONESIA",INDOSIAR (LIGA IDN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://delivery.macan.network/stream/id_indosiar/playlist.m3u8?token=raha2t6&v=20200807
+http://tvn.x10.mx/vidio/master.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/DZcFdZL5/Round-Photo-Jul072022-080714.png" group-title="INDONESIA",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w35916090_b744100_sleng.m3u8
@@ -82,7 +78,7 @@ http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb5
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="" tvg-logo="https://i.postimg.cc/bYWDZVYJ/Round-Photo-Jul072022-083052.png" group-title="INDONESIA",O CHANNEL
-http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+http://tvn.x10.mx/vidio/master-13.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="jtv.id" tvg-logo="https://i.postimg.cc/G29JvMBp/Round-Photo-Jul072022-083224.png" group-title="INDONESIA",JTV SBY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
