@@ -256,165 +256,6 @@ http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w1118851130.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/NG83jnD6/Round-Photo-Jul092022-065333.png" group-title="KOREA",OBS TV
 http://59.23.231.102:1935/live/obsstream1/myStream.sdp/chunklist_w591536192.m3u8
 
-CAMBODIA
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qqCBdNwp/Round-Photo-Jul072022-183220.png" group-title="CAMBODIA",BAYON TV
-https://livefta.malimarcdn.com/tvkedge/bayonhd.stream/chunklist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/59qb8Wr7/Round-Photo-Jul072022-183349.png" group-title="CAMBODIA",BTV NEWS
-https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/tTBDHTTv/Round-Photo-Jul072022-183527.png" group-title="CAMBODIA",CTV 9
-http://203.176.130.123:8989/live/ctv9_480k.stream/chunklist_w787565595.m3u8?e36945e1-f125-4679-b846-44d3a43016c9=
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rsS1wwFL/Round-Photo-Jul072022-183712.png" group-title="CAMBODIA",SEA TV
-https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MK5BP4nt/Round-Photo-Jul072022-183831.png" group-title="CAMBODIA",TV 5
-http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w1664740029.m3u8?21e8abd5-658b-4da3-bf75-f4c72598ae69=
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qv9vjXxj/Round-Photo-Jul072022-183931.png" group-title="CAMBODIA",TVK
-https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T29n2s2b/Round-Photo-Jul092022-115629.png" group-title="CAMBODIA",APSARA TV
-http://203.176.130.123:8989/live/apsaratv_480k.stream/chunklist_w1880262870.m3u8?6a3f9565-8744-4f92-9df5-5826566d00ea=
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7L3XL9BR/unnamed.png" group-title="CAMBODIA",WIKI TV
-http://206.189.93.160:1935/live/myStream_720p/chunklist_w316870332.m3u8?a2cc11a7-5472-4254-9c27-d7f9a8ec305c=
-
-VIETNAM
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FRqpRKtP/Round-Photo-Jul072022-184244.png" group-title="VIETNAM",THDT
-http://118.69.169.41:1935/THDT/thdttv/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/K8XWfJH9/Round-Photo-Jul072022-184413.png" group-title="VIETNAM",QRT
-http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQdvgf3d/Round-Photo-Jul072022-184639.png" group-title="VIETNAM",THTPCT
-https://tv.tchgroup.vn/live/tv_web/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0NLRgPWs/Round-Photo-Jul072022-184854.png" group-title="VIETNAM",ANTV
-https://live.antv.gov.vn/antv/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dVgwF23p/Round-Photo-Jul072022-185142.png" group-title="VIETNAM",CTV
-http://tv.ctvcamau.vn/live/tv/tv.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RF6PBt3s/Round-Photo-Jul072022-185503.png" group-title="VIETNAM",THAI NGUYEN TV
-https://streaming.thainguyentv.vn/hls/livestream.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/PJNdh2bG/Round-Photo-Jul072022-185639.png" group-title="VIETNAM",SON LA TV
-http://118.107.85.5:1935/live/smil:STV.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CMQVVCR0/Round-Photo-Jul072022-185835.png" group-title="VIETNAM",CRTV
-http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Y0GFyNsR/Round-Photo-Jul072022-190526.png" group-title="VIETNAM",HTV 1
-https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Hk72LthC/Round-Photo-Jul072022-190718.png" group-title="VIETNAM",HTV 2
-https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2jKgt46Z/Round-Photo-Jul072022-190910.png" group-title="VIETNAM",HTV 3
-https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQ1YjkCh/Round-Photo-Jul072022-191155.png" group-title="VIETNAM",THVL 1
-https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQ1YjkCh/Round-Photo-Jul072022-191155.png" group-title="VIETNAM",THVL 2
-https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQ1YjkCh/Round-Photo-Jul072022-191155.png" group-title="VIETNAM",THVL 3
-https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQ1YjkCh/Round-Photo-Jul072022-191155.png" group-title="VIETNAM",THVL 4
-https://livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/K8cytmsG/Round-Photo-Jul072022-191402.png" group-title="VIETNAM",SCTV 1
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s2/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/K8cytmsG/Round-Photo-Jul072022-191402.png" group-title="VIETNAM",SCTV 2
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv2/s2/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/K8cytmsG/Round-Photo-Jul072022-191402.png" group-title="VIETNAM",SCTV 3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv3/s2/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/K8cytmsG/Round-Photo-Jul072022-191402.png" group-title="VIETNAM",SCTV 4
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv4/s2/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/K8cytmsG/Round-Photo-Jul072022-191402.png" group-title="VIETNAM",SCTV 5
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/s2/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/K8cytmsG/Round-Photo-Jul072022-191402.png" group-title="VIETNAM",SCTV 6
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/s2/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/K8cytmsG/Round-Photo-Jul072022-191402.png" group-title="VIETNAM",SCTV 7
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/s2/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/K8cytmsG/Round-Photo-Jul072022-191402.png" group-title="VIETNAM",SCTV 8
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/s2/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/K8cytmsG/Round-Photo-Jul072022-191402.png" group-title="VIETNAM",SCTV 9
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/s2/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/K8cytmsG/Round-Photo-Jul072022-191402.pngg" group-title="VIETNAM",SCTV 10
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/s2/index.m3u8
-
-JAPAN
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YS1Tv91q/Round-Photo-Jul072022-195102.png" group-title="JAPAN",NHK WORLD
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mDKdVW36/Round-Photo-Jul072022-195401.png" group-title="JAPAN",MX TOKYO 1
-http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mDKdVW36/Round-Photo-Jul072022-195401.png" group-title="JAPAN",MX TOKYO 2
-http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rsCS4Bf4/Round-Photo-Jul072022-195543.png" group-title="JAPAN",日テレニュース24
-https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7PVGgnxS/Round-Photo-Jul072022-195701.png" group-title="JAPAN",ウェザーニュース
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/q7ygg8bh/icon.png" group-title="JAPAN",ANIME TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4yhjXzR8/Round-Photo-Jul072022-195901.png" group-title="JAPAN",TV ASAHI
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/X7tCJ7jP/Round-Photo-Jul072022-200012.png" group-title="JAPAN",BS FUJI TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J48FFJBr/Round-Photo-Jul072022-200215.png" group-title="JAPAN",BS NITTELE
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/k5M6Yj7Q/Round-Photo-Jul072022-200327.png" group-title="JAPAN",BS TBS
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9QgCV1Gt/Round-Photo-Jul072022-200705.png" group-title="JAPAN",BS TOKYO TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mDfDf8sp/Round-Photo-Jul072022-201212.png" group-title="JAPAN",NECO
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/NF0vWH5P/Round-Photo-Jul072022-201642.png" group-title="JAPAN",FAMILY GEKIJO
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CdyJjyTH/Round-Photo-Jul072022-201809.png" group-title="JAPAN",GAORA SPORTS
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/yNWQ4yPR/Round-Photo-Jul072022-202019.png" group-title="JAPAN",KIDS STATION
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/t49R5Yzw/Round-Photo-Jul072022-202405.png" group-title="JAPAN",LALA TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mgPXKSVH/Round-Photo-Jul072022-202527.png" group-title="JAPAN",SUPER!! DRAMA TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/j53JVyMD/Round-Photo-Jul072022-202818.png" group-title="JAPAN",NHK BS PREMIUM
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
 CHINA
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sD4GsFHF/Round-Photo-Jul072022-203052.png" group-title="CHINA",CCTV 1
@@ -471,10 +312,10 @@ http://39.135.32.24:6610/000000001000/anhuistv/1.m3u8?IASHttpSessionId=OTT?zweid
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7ZVbywQj/Round-Photo-Jul082022-105943.png" group-title="CHINA",JIANGSU TV
-http://117.148.179.175:80/PLTV/88888888/224/3221231447/1.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QCGjTyyp/Round-Photo-Jul082022-110114.png" group-title="CHINA",DRAGON TV
-http://117.148.179.167:80/PLTV/88888888/224/3221231450/1.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Ls4KgZ36/Round-Photo-Jul082022-110456.png" group-title="CHINA",CHONGQING TV
 http://39.135.32.24:6610/000000001000/1000000002000018937/1.m3u8?xtkg%3Fzweid=&IASHttpSessionId=OTT2421720220710014444062882
@@ -486,7 +327,7 @@ http://39.135.32.24:6610/000000001000/1000000001000017156/1.m3u8?xtkg%3Fzweid=&I
 http://111.40.196.31/PLTV/88888888/224/3221225531/index.m3u8?zweimd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0j9PnHpD/Round-Photo-Jul082022-111744.png" group-title="CHINA",SHENZHEN TV
-http://39.135.32.24:6610/000000001000/1000000001000011645/1.m3u8?xtkg?zweid
+http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7PfQNDRx/Round-Photo-Jul092022-013854.png" group-title="CHINA",FUJIAN TV
 http://39.135.32.24:6610/000000001000/1000000002000009263/1.m3u8?xtkg?zweid
@@ -510,7 +351,7 @@ http://117.148.179.142:80/PLTV/88888888/224/3221231885/1.m3u8
 http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dtn6MxpW/Round-Photo-Jul092022-015017.png" group-title="CHINA",HUNAN TV
-http://117.148.179.172:80/PLTV/88888888/224/3221231729/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C5Jvw5vF/Round-Photo-Jul162022-093650.png" group-title="CHINA",LTV 1
 https://epg.pm/stream/6be19f1d757d3cd452483f059e43321fa34b3b4c75d96a402a3912b613d7778a.m3u8
@@ -578,7 +419,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?stime=20220222140452&etime=20220301215812&token=0c5ccb3c4a3cde0ef5bc1
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dtn6MxpW/Round-Photo-Jul092022-015017.png" group-title="WORLD",HUNAN TV CHINA
-http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
