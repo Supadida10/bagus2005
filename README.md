@@ -45,7 +45,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w410935071_b744100_sle
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/j2Vg5QLF/Round-Photo-Jul072022-081225.png" group-title="INDONESIA",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D05dXWB7/Antv.png" group-title="Indonesia",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/W4FwkqLL/Round-Photo-Jul072022-081350.png" group-title="INDONESIA",METRO TV
@@ -259,25 +258,25 @@ http://59.23.231.102:1935/live/obsstream1/myStream.sdp/chunklist_w591536192.m3u8
 CHINA
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sD4GsFHF/Round-Photo-Jul072022-203052.png" group-title="CHINA",CCTV 1
-http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze6hquMWqfEPee_xkbQQqoYU
+http://39.135.46.100:6410/000000001000/HD-8000k-1080P-cctv1/index.m3u8?IASHttpSessionId=OTT/000000001000/HD-4000k-1080P-cctv1/1.m3u8?IASHttpSessionId=OTT?zzhongd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/x8bGts9f/Round-Photo-Jul072022-203231.png" group-title="CHINA",CCTV 2
-http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze_25v9evSHeIELJTt0LIK00
+http://39.135.46.105:6610/000000001000/1000000001000012442/1.m3u8?i?zzhongd&IASHttpSessionId=SLB2918520220820090804009671
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gk7745dh/Round-Photo-Jul072022-203826.png" group-title="CHINA",CCTV 3
-http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze7ovNYn-Vt5LjAj2rG7blSc
+http://39.135.46.100:6410/000000001000/HD-4000k-1080P-cctv3/1.m3u8?IASHttpSessionId=OTT?zzhongd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sX37pVNJ/Round-Photo-Jul072022-203644.png" group-title="CHINA",CCTV 4
-http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze6WPuycamZK7MPGeycnQK9g
+http://39.135.46.100:6410/000000001000/HD-4000k-1080P-cctv4/1.m3u8?IASHttpSessionId=OTT?zzhongd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cC1F6w37/Round-Photo-Jul072022-205629.png" group-title="CHINA",CCTV 5
-http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze0sYr1WaKngEDamdDdQ5Xu8
+http://39.135.46.100:6410/000000001000/HD-4000k-1080P-cctv5/1.m3u8?IASHttpSessionId=OTT?zzhongd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvg3RNMG/Round-Photo-Jul072022-211118.png" group-title="CHINA",CCTV 6
-http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze1HdueXez70bWJRF9RNHLwE
+http://39.135.46.100:6410/000000001000/HD-4000k-1080P-cctv6/1.m3u8?IASHttpSessionId=OTT?zzhongd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ydgzNDMb/Round-Photo-Jul072022-211647.png" group-title="CHINA",CCTV 7
-http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzewCRLcEiuHCIfYl9eVrwedI
+http://39.135.46.100:6410/000000001000/HD-4000k-1080P-cctv7/1.m3u8?IASHttpSessionId=OTT?zzhongd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SssRDCZs/Round-Photo-Jul082022-090816.png" group-title="CHINA",CCTV 8
 http://39.134.65.175/PLTV/88888888/224/3221225795/index.m3u8
