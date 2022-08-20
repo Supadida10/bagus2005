@@ -259,27 +259,25 @@ http://59.23.231.102:1935/live/obsstream1/myStream.sdp/chunklist_w591536192.m3u8
 CHINA
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sD4GsFHF/Round-Photo-Jul072022-203052.png" group-title="CHINA",CCTV 1
-http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze6hquMWqfEPee_xkbQQqoYU
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/x8bGts9f/Round-Photo-Jul072022-203231.png" group-title="CHINA",CCTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://tv.cctv.com/
-https://cctvwbcdkshw.v.kcdnvip.com/cctvwbcd/cdrmcctv2_1/index.m3u8?b=200-1600
+http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze_25v9evSHeIELJTt0LIK00
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gk7745dh/Round-Photo-Jul072022-203826.png" group-title="CHINA",CCTV 3
-http://111.40.196.29/PLTV/88888888/224/3221225588/index.m3u8?
+http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze7ovNYn-Vt5LjAj2rG7blSc
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sX37pVNJ/Round-Photo-Jul072022-203644.png" group-title="CHINA",CCTV 4
-http://117.148.179.175/PLTV/88888888/224/3221231726/1.m3u8
+http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze6WPuycamZK7MPGeycnQK9g
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cC1F6w37/Round-Photo-Jul072022-205629.png" group-title="CHINA",CCTV 5
-http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
+http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze0sYr1WaKngEDamdDdQ5Xu8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvg3RNMG/Round-Photo-Jul072022-211118.png" group-title="CHINA",CCTV 6
-http://117.148.179.175/PLTV/88888888/224/3221231724/index.m3u8
+http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze1HdueXez70bWJRF9RNHLwE
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ydgzNDMb/Round-Photo-Jul072022-211647.png" group-title="CHINA",CCTV 7
-http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzewCRLcEiuHCIfYl9eVrwedI
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SssRDCZs/Round-Photo-Jul082022-090816.png" group-title="CHINA",CCTV 8
 http://39.134.65.175/PLTV/88888888/224/3221225795/index.m3u8
@@ -291,19 +289,19 @@ http://39.135.32.10:6610/000000001000/HD-4000k-1080P-cctv9/1.m3u8?IASHttpSession
 http://117.148.179.175/PLTV/88888888/224/3221231666/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gjpY1hs8/Round-Photo-Jul082022-091412.png" group-title="CHINA",CCTV 11
-http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
+http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze-MHCfGiQI_YOVjl7eX0asY
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QCSrPyHZ/Round-Photo-Jul082022-091624.png" group-title="CHINA",CCTV 12
-http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
+http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzez4bgEIUARw3J3is-dMlxgU
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gcT9w51Q/Round-Photo-Jul082022-104854.png" group-title="CHINA",CCTV 13
-http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
+http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze9FsZmSWbrFBcPpW9WiHZh0
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MHRhJZtB/Round-Photo-Jul082022-105058.png" group-title="CHINA",CCTV 14
-http://117.148.179.173/PLTV/88888888/224/3221231648/index.m3u8
+http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzewpTcR07GGBZ4T6wNRLNwmQ
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gkgKkF5L/Round-Photo-Jul082022-105410.png" group-title="CHINA",CCTV 15
-http://117.148.179.169/PLTV/88888888/224/3221231693/1.m3u8
+http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzexMaLQ_7hllkpmDLksX_AlE
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMv8FDRJ/Anhui-Television.png"" group-title="CHINA",ANHUI TV
 http://39.135.32.24:6610/000000001000/anhuistv/1.m3u8?IASHttpSessionId=OTT?zweid
