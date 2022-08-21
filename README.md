@@ -29,7 +29,7 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-id="iNewsTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/N0hKZv1n/Round-Photo-Aug212022-065204.png" group-title="INDONESIA",INEWS TV
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/N0hKZv1n/Round-Photo-Aug212022-065204.png" group-title="INDONESIA",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/qvzLQhn4/Round-Photo-Aug212022-065658.png" group-title="INDONESIA",SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/pd6R3fbL/Round-Photo-Aug212022-065936.png" group-title="INDONESIA",INDOSIAR
@@ -45,7 +45,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w410935071_b744100_sle
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/2S1H2hww/Round-Photo-Aug212022-070859.png" group-title="INDONESIA",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D05dXWB7/Antv.png" group-title="Indonesia",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/QdKbps8Y/Round-Photo-Aug212022-071057.png" group-title="INDONESIA",METRO TV
@@ -141,214 +140,206 @@ https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 WORLD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZ47Nc3C/Round-Photo-Jul092022-065100.png" group-title="WORLD",KBC TV KOREA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4dBKn80b/Round-Photo-Aug212022-084108.png" group-title="WORLD",KBC TV KOREA
 http://119.200.131.11:1935/KBCTV/tv/chunklist_w967796432.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wT2Y0rsq/Round-Photo-Jul092022-065229.png" group-title="WORLD",MBC KOREA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Vst6xkfW/Round-Photo-Aug212022-084257.png" group-title="WORLD",MBC KOREA
 http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w1118851130.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/NG83jnD6/Round-Photo-Jul092022-065333.png" group-title="WORLD",OBS TV KOREA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hv0qKw3c/Round-Photo-Aug212022-085111.png" group-title="WORLD",OBS TV KOREA
 http://59.23.231.102:1935/live/obsstream1/myStream.sdp/chunklist_w591536192.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pLf2XKQ1/Round-Photo-Jul092022-015229.png" group-title="WORLD",RTHK 31 HONGKONG
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3NYPf1r6/Round-Photo-Aug212022-085306.png" group-title="WORLD",RTHK 31 HONGKONG
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZXhHszg/Round-Photo-Jul092022-015414.png" group-title="WORLD",RTHK 32 HONGKONG
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sDntK5k6/Round-Photo-Aug212022-085435.png" group-title="WORLD",RTHK 32 HONGKONG
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/05DNqngS/Round-Photo-Jul072022-134926.png" group-title="WORLD",ARIRANG TV KOREA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/tJ4BVM4X/Round-Photo-Aug212022-085626.png" group-title="WORLD",ARIRANG TV KOREA
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qqCBdNwp/Round-Photo-Jul072022-183220.png" group-title="WORLD",BAYON TV CAMBODIA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/D0NP4fNg/Round-Photo-Aug212022-090035.png" group-title="WORLD",BAYON TV CAMBODIA
 https://livefta.malimarcdn.com/tvkedge/bayonhd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sXr34VpV/Round-Photo-Aug212022-064124.png" group-title="WORLD",TVRI INDONESIA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/XqtC39KY/Round-Photo-Jul092022-015750.png" group-title="WORLD",MVTV LAOS
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/668jwFg0/Round-Photo-Aug212022-090606.png" group-title="WORLD",MVTV LAOS
 https://edge6a.v2h-cdn.com/m2h7/MVLAO.stream_720p/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CMQVVCR0/Round-Photo-Jul072022-185835.png" group-title="WORLD",CRTV VIETNAM
-http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/v8qdvDc2/Round-Photo-Jul072022-093730.png" group-title="WORLD",THAIRATH TV THAILAND
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/TY89x1rd/Round-Photo-Aug212022-090945.png" group-title="WORLD",THAIRATH TV THAILAND
 https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="" tvg-logo="https://i.postimg.cc/J4vPrC2z/Round-Photo-Jul072022-093034.png" group-title="WORLD",WORKPOINT TV THAILAND
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="" tvg-logo="https://i.postimg.cc/BQGxyy0t/Round-Photo-Aug212022-091058.png" group-title="WORLD",WORKPOINT TV THAILAND
 https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="" tvg-logo="https://i.postimg.cc/gjv8m1Xn/Round-Photo-Jul072022-093421.png" group-title="WORLD",BBTV 7 THAILAND
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="" tvg-logo="https://i.postimg.cc/j26Jtxb2/Round-Photo-Aug212022-091415.png" group-title="WORLD",BBTV 7 THAILAND
 http://host4.dynns.com/mlIkk/ddfa47e726444446864b14e0e819fdde.m3u8
 
-#EXTINF:-1 tvg-id="NationTV.th" tvg-name="" tvg-logo="https://i.postimg.cc/NFgf2nCy/Round-Photo-Jul072022-093542.png" group-title="WORLD",NATION TV THAILAND
+#EXTINF:-1 tvg-id="NationTV.th" tvg-name="" tvg-logo="https://i.postimg.cc/C50zv3qg/Round-Photo-Aug212022-091546.png" group-title="WORLD",NATION TV THAILAND
 https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Channel3.th" tvg-name="" tvg-logo="https://i.postimg.cc/qM6Mh2jx/Round-Photo-Jul072022-094207.png" group-title="WORLD",CH 3 THAILAND
+#EXTINF:-1 tvg-id="Channel3.th" tvg-name="" tvg-logo="https://i.postimg.cc/zDQQgqK6/Round-Photo-Aug212022-092546.png" group-title="WORLD",CH 3 THAILAND
 http://host4.dynns.com/mlIkk/a4485b656d764f308c63b14a8bf62326.m3u8
 
-#EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-name="" tvg-logo="https://i.postimg.cc/BZrtCh8V/Round-Photo-Jul072022-094657.png" group-title="WORLD",CH 5 THAILAND
+#EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-name="" tvg-logo="https://i.postimg.cc/2SNrnQhs/Round-Photo-Aug212022-092859.png" group-title="WORLD",CH 5 THAILAND
 http://host4.dynns.com/mlIkk/1d92193b11fe490b8c67d0a88bee3fd6.m3u8
 
-#EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="" tvg-logo="https://i.postimg.cc/J4C4XGvw/Round-Photo-Jul072022-094823.png" group-title="WORLD",MCOT THAILAND
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="" tvg-logo="https://i.postimg.cc/Dy8P1snP/Round-Photo-Aug212022-093333.png" group-title="WORLD",MCOT THAILAND
 https://tc-live1.sanook.com/live/22302_ch9.m3u8
 
-#EXTINF:-1 tvg-id="NBT2HD.th" tvg-name="" tvg-logo="https://i.postimg.cc/x80prGqD/Round-Photo-Jul072022-094921.png" group-title="WORLD",NBT 2 THAILAND
+#EXTINF:-1 tvg-id="NBT2HD.th" tvg-name="" tvg-logo="https://i.postimg.cc/q7b8tMS5/Round-Photo-Aug212022-093740.png" group-title="WORLD",NBT 2 THAILAND
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="GMM25.th" tvg-name="" tvg-logo="https://i.postimg.cc/fyTCqwgM/Round-Photo-Jul072022-095053.png" group-title="WORLD",GMM 25 THAILAND
+#EXTINF:-1 tvg-id="GMM25.th" tvg-name="" tvg-logo="https://i.postimg.cc/zXFHbGRF/Round-Photo-Aug212022-094105.png" group-title="WORLD",GMM 25 THAILAND
 https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mono29.th" tvg-name="" tvg-logo="https://i.postimg.cc/qvXtq8vZ/Round-Photo-Jul072022-095157.png" group-title="WORLD", MONO 29 THAILAND
+#EXTINF:-1 tvg-id="Mono29.th" tvg-name="" tvg-logo="https://i.postimg.cc/R0HMtgDx/Round-Photo-Aug212022-094237.png" group-title="WORLD", MONO 29 THAILAND
 https://freelive2.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTMTV1.my" tvg-name="" tvg-logo="https://i.postimg.cc/tT26vFxM/Round-Photo-Jul072022-085911.png group-title="WORLD",TV 1 MALAYSIA 
+#EXTINF:-1 tvg-id="RTMTV1.my" tvg-name="" tvg-logo="https://i.postimg.cc/28tRx4vk/Round-Photo-Aug212022-094819.png" group-title="WORLD",TV 1 MALAYSIA 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="RTMTV2.my" tvg-name="" tvg-logo="https://i.postimg.cc/Sj0cck8S/Round-Photo-Jul072022-090637.png" group-title="WORLD",TV 2 MALAYSIA 
+#EXTINF:-1 tvg-id="RTMTV2.my" tvg-name="" tvg-logo="https://i.postimg.cc/mZd0bQmY/Round-Photo-Aug212022-095014.png" group-title="WORLD",TV 2 MALAYSIA 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2496000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="" tvg-logo="https://i.postimg.cc/R095Xt9f/Round-Photo-Jul072022-091505.png" group-title="WORLD",TV 3 MALAYSIA
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="" tvg-logo="https://i.postimg.cc/YCxPsYLL/Round-Photo-Aug212022-095218.png" group-title="WORLD",TV 3 MALAYSIA
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="RTMTVOkey.my" tvg-name="" tvg-logo="https://i.postimg.cc/HnFF5cBr/Round-Photo-Jul072022-091615.png" group-title="WORLD",OKEY TV MALAYSIA
+#EXTINF:-1 tvg-id="RTMTVOkey.my" tvg-name="" tvg-logo="https://i.postimg.cc/8PxkC8Zm/Round-Photo-Aug212022-100442.png" group-title="WORLD",OKEY TV MALAYSIA
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2496000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CKGc5Q6/Round-Photo-Jul072022-091740.png" group-title="WORLD",TV 6 MALAYSIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mZCWScjC/Round-Photo-Aug212022-100805.png" group-title="WORLD",TV 6 MALAYSIA
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2496000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="TV9.my" tvg-name="" tvg-logo="https://i.postimg.cc/253JH7M1/Round-Photo-Jul072022-092025.png" group-title="WORLD",TV 9 MALAYSIA
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="" tvg-logo="https://i.postimg.cc/j2ZXhQFR/Round-Photo-Aug212022-100957.png" group-title="WORLD",TV 9 MALAYSIA
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FzxDFYwt/Round-Photo-Jul072022-092150.png" group-title="WORLD",TV IKIM MALAYSIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zXyWMrLC/Round-Photo-Aug212022-101334.png" group-title="WORLD",TV IKIM MALAYSIA
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/1XYVKPqn/Round-Photo-Jul072022-092353.png" group-title="WORLD",DRAMA SANGAT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/N0D5FJ9G/Round-Photo-Aug212022-101519.png" group-title="WORLD",DRAMA SANGAT MALAYSIA
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="" tvg-logo="https://i.postimg.cc/HnKjy2qb/Round-Photo-Jul072022-092517.png" group-title="WORLD",8 TV
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="" tvg-logo="https://i.postimg.cc/xTGkB1fb/Round-Photo-Aug212022-101737.png" group-title="WORLD",8 TV MALAYSIA
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nh9YghJk/Round-Photo-Jul092022-020236.png" group-title="WORLD",STV CROATIA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmQ0vgXb/Round-Photo-Aug212022-110405.png" group-title="WORLD",STV CROATIA
 http://89.201.163.244:8080/hls/hdmi.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/TYf3B7vH/Round-Photo-Jul092022-020557.png" group-title="WORLD",OIK TV CEZCH REPUBLIC
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpBbcQyV/Round-Photo-Aug212022-111633.png" group-title="WORLD",OIK TV CEZCH REPUBLIC
 https://streamer05.low-latency.cz/oiktv/tracks-v2a1/mono.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GhXdVbQH/Round-Photo-Jul092022-020722.png" group-title="WORLD",TV2 NORD DENMARK
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/282YhJdg/Round-Photo-Aug212022-111805.png" group-title="WORLD",TV2 NORD DENMARK
 https://cdn-lt-live.tv2nord.dk/env/cluster-1-a.live.nvp1/live/hls/p/1956931/e/1_h9yfe7h2/tl/main/st/0/t/KgFdlU5AtI7jv13vPYnzyg/index-s32.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vT6fjPRm/Round-Photo-Jul092022-020955.png" group-title="WORLD",TAGESSCHAU 24 GERMANY
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SRdBL29c/Round-Photo-Aug212022-111945.png" group-title="WORLD",TAGESSCHAU 24 GERMANY
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6QjHx1PV/Round-Photo-Jul092022-021104.png" group-title="WORLD",24 KANAL UKRAINE
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hjb6gzpN/Round-Photo-Aug212022-112203.png" group-title="WORLD",24 KANAL UKRAINE
 https://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7P7NK6qn/Round-Photo-Jul092022-021211.png" group-title="WORLD",RTK 1 KOSOVO
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FKh08YkY/Round-Photo-Aug212022-112535.png" group-title="WORLD",RTK 1 KOSOVO
 http://162.55.88.21/rtk1stream/rtk1.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qRBzy1BF/Round-Photo-Jul092022-021314.png" group-title="WORLD",RE TV LATVIA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/NFQMfXYX/Round-Photo-Aug212022-113123.png" group-title="WORLD",RE TV LATVIA
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bvhP2dYV/Round-Photo-Jul092022-021541.png" group-title="WORLD",RTP INTERNACIONAL PORTUGAL
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cCCpm1Bj/Round-Photo-Aug212022-113425.png" group-title="WORLD",RTP INTERNACIONAL PORTUGAL
 https://streaming-live.rtp.pt/liverepeater/rtpi_5ch120h264.stream/chunklist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HLkgtR5b/Round-Photo-Jul092022-021750.png" group-title="WORLD",MIR TV RUSSIA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pLBtRSrs/Round-Photo-Aug212022-113709.png" group-title="WORLD",MIR TV RUSSIA
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gjPtgL51/Round-Photo-Jul092022-021919.png" group-title="WORLD",TRT 1 TURKEY
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mgL5NgZS/Round-Photo-Aug212022-113956.png" group-title="WORLD",TRT 1 TURKEY
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/D0F5rk4T/Round-Photo-Jul092022-022040.png" group-title="WORLD",ABU DHABI TV UNI EMIRATES ARAB
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zvwxK99M/Round-Photo-Aug212022-114144.png" group-title="WORLD",ABU DHABI TV UNI EMIRATES ARAB
 https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?stime=20220222140452&etime=20220301215812&token=0c5ccb3c4a3cde0ef5bc1
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dtn6MxpW/Round-Photo-Jul092022-015017.png" group-title="WORLD",HUNAN TV CHINA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Y0yhn9Km/Round-Photo-Aug212022-114607.png" group-title="WORLD",HUNAN TV CHINA
 http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sxV9BYbf/Round-Photo-Jul092022-022222.png" group-title="WORLD",TV 5 MONDE ASIA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZqF0kjzm/Round-Photo-Aug212022-114755.png" group-title="WORLD",TV 5 MONDE ASIA
 https://liveanevia.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3NSpdPg9/Round-Photo-Jul092022-022330.png" group-title="WORLD",CNA WORLD
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QCBXMJwH/Round-Photo-Aug212022-115002.png" group-title="WORLD",CNA WORLD
 https://mediacorp-videosbclive.akamaized.net/c6717ac64d72465eae79bfbc2064d893/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YS1Tv91q/Round-Photo-Jul072022-195102.png" group-title="WORLD",NHK WORLD JAPAN
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gkFJ0fcp/Round-Photo-Aug212022-115239.png" group-title="WORLD",NHK WORLD JAPAN
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="AlJazeeraEnglish.qa" tvg-name="" tvg-logo="https://i.postimg.cc/FK9kjn8X/Round-Photo-Jul092022-085144.png" group-title="WORLD",ALJAZEERA ENGLISH
+#EXTINF:0 tvg-id="AlJazeeraEnglish.qa" tvg-name="" tvg-logo="https://i.postimg.cc/2ypzVZDG/Round-Photo-Aug212022-115459.png" group-title="WORLD",ALJAZEERA ENGLISH
 https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="" tvg-logo="https://i.postimg.cc/jqGXztXV/Round-Photo-Jul092022-085253.png" group-title="WORLD",BBC NEWS ASIA
+#EXTINF:0 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="" tvg-logo="https://i.postimg.cc/B6F39nKK/Round-Photo-Aug212022-115614.png" group-title="WORLD",BBC NEWS ASIA
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="BloombergTVAsiaPacific.hk" tvg-name="" tvg-logo="https://i.postimg.cc/PrjDXxyq/Round-Photo-Jul092022-085444.png" group-title="WORLD",BLOOMBERG TV ASIA
+#EXTINF:0 tvg-id="BloombergTVAsiaPacific.hk" tvg-name="" tvg-logo="https://i.postimg.cc/mDRrwnkM/Round-Photo-Aug212022-121929.png" group-title="WORLD",BLOOMBERG TV ASIA
 https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="CGTN.cn" tvg-name="" tvg-logo="https://i.postimg.cc/Z5D0dK8p/Round-Photo-Jul092022-085605.png" group-title="WORLD",CGTN
+#EXTINF:0 tvg-id="CGTN.cn" tvg-name="" tvg-logo="https://i.postimg.cc/VLTLTv5z/Round-Photo-Aug212022-122057.png" group-title="WORLD",CGTN
 https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="CNA.sg" tvg-name="" tvg-logo="https://i.postimg.cc/3NSpdPg9/Round-Photo-Jul092022-022330.png group-title="WORLD",CNA
-https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="CNBCAsia.sg" tvg-name="" tvg-logo="https://i.postimg.cc/G3qR2gJs/Round-Photo-Jul092022-090016.png" group-title="WORLD",CNBC ASIA
+#EXTINF:0 tvg-id="CNBCAsia.sg" tvg-name="" tvg-logo="https://i.postimg.cc/BnYyNPvC/Round-Photo-Aug212022-122942.png" group-title="WORLD",CNBC ASIA
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="CNNInternationalAsiaPacific.hk" tvg-name="" tvg-logo="https://i.postimg.cc/J4v9Dfyt/Round-Photo-Jul092022-090144.png" group-title="WORLD",CNN INTERNATIONAL
+#EXTINF:0 tvg-id="CNNInternationalAsiaPacific.hk" tvg-name="" tvg-logo="https://i.postimg.cc/XJ0ggn98/Round-Photo-Aug212022-123140.png" group-title="WORLD",CNN INTERNATIONAL
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="DWEnglish.de" tvg-name="" tvg-logo="https://i.postimg.cc/MGDPDNG7/Round-Photo-Jul092022-090254.png" group-title="WORLD",DW ENGLISH
+#EXTINF:0 tvg-id="DWEnglish.de" tvg-name="" tvg-logo="https://i.postimg.cc/kX5vs1Rk/Round-Photo-Aug212022-123400.png" group-title="WORLD",DW ENGLISH
 https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/jSZKWgr1/Round-Photo-Jul092022-090510.png" group-title="WORLD",EURONEWS ENGLISH
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/1zDGXbbN/Round-Photo-Aug212022-123527.png" group-title="WORLD",EURONEWS ENGLISH
 https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="FoxNewsChannel.us" tvg-name="" tvg-logo="https://i.postimg.cc/zGtZDyCZ/Round-Photo-Jul092022-090641.png" group-title="WORLD",FOX NEWS ENGLISH
+#EXTINF:0 tvg-id="FoxNewsChannel.us" tvg-name="" tvg-logo="https://i.postimg.cc/G3gyLc95/Round-Photo-Aug212022-123859.png" group-title="WORLD",FOX NEWS ENGLISH
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="France24English.fr" tvg-name="" tvg-logo="https://i.postimg.cc/WznY9ySL/Round-Photo-Jul092022-090820.png" group-title="WORLD",FRANCE 24 ENGLISH
+#EXTINF:0 tvg-id="France24English.fr" tvg-name="" tvg-logo="https://i.postimg.cc/DfR1QvFb/Round-Photo-Aug212022-124043.png" group-title="WORLD",FRANCE 24 ENGLISH
 https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="NHKWorldPremium.jp" tvg-name="" tvg-logo="https://i.postimg.cc/2S0QHZWt/Round-Photo-Jul092022-100217.png" group-title="WORLD",NHK WORLD PREMIUM
+#EXTINF:0 tvg-id="NHKWorldPremium.jp" tvg-name="" tvg-logo="https://i.postimg.cc/tTMWMyxw/Round-Photo-Aug212022-124606.png" group-title="WORLD",NHK WORLD PREMIUM
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="trt.tr" tvg-name="" tvg-logo="https://i.postimg.cc/yYTDVCL4/Round-Photo-Jul092022-091237.png" group-title="WORLD",TRT WORLD
+#EXTINF:0 tvg-id="trt.tr" tvg-name="" tvg-logo="https://i.postimg.cc/TPHJZr8t/Round-Photo-Aug212022-124747.png" group-title="WORLD",TRT WORLD
 https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ABCAustraliaAsia.au" tvg-name="" tvg-logo="https://i.postimg.cc/R0S8jKNx/Round-Photo-Jul092022-091558.png" group-title="WORLD",ABC AUSTRALIA
+#EXTINF:0 tvg-id="ABCAustraliaAsia.au" tvg-name="" tvg-logo="https://i.postimg.cc/YqpLzhZ0/Round-Photo-Aug212022-125042.png" group-title="WORLD",ABC AUSTRALIA
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
-#EXTINF:0 tvg-id="dubaione.ae" tvg-name="" tvg-logo="https://i.postimg.cc/sXq4BxKb/Round-Photo-Jul212022-200414.png" group-title="WORLD",DUBAI ONE
+#EXTINF:0 tvg-id="dubaione.ae" tvg-name="" tvg-logo="https://i.postimg.cc/7ZjLd6sg/Round-Photo-Aug212022-125239.png" group-title="WORLD",DUBAI ONE
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fWpz4JWV/Round-Photo-Jul082022-105752.png" group-title="WORLD",ZHENJIANG TV CHINA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90N298sG/Round-Photo-Aug212022-125423.png" group-title="WORLD",ZHENJIANG TV CHINA
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
 SPORTS
