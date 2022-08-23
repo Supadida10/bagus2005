@@ -481,65 +481,61 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/astro5
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/H79rWh4/arena-Telecast4-Web-modified.png" group-title="SPORTS",ASTRO ARENA 1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Px8yfqYb/Round-Photo-Aug212022-205033.png" group-title="SPORTS",ASTRO ARENA 1
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/astroarena1
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/k8BdXZr/80-modified.png" group-title="SPORTS",ASTRO ARENA 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7PK1v7Fv/Round-Photo-Aug212022-205217.png" group-title="SPORTS",ASTRO ARENA 2
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/astroarena2
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="SonySix.in" tvg-logo="https://i.ibb.co/KyYVc6h/Desain-tanpa-judul-52-modified.png" group-title="SPORTS",SONY SIX
+#EXTINF:-1 tvg-id="SonySix.in" tvg-logo="https://i.postimg.cc/xTT28rpJ/Round-Photo-Aug212022-205354.png" group-title="SPORTS",SONY SIX
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://i.ibb.co/dGXMK2m/Desain-tanpa-judul-53-modified.png" group-title="SPORTS",SONY TEN 1
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://i.postimg.cc/14hPf48p/Round-Photo-Aug212022-205729.png" group-title="SPORTS",SONY TEN 1
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="SonyTen2.in" tvg-logo="https://i.ibb.co/vcvx0yL/Desain-tanpa-judul-54-modified.png" group-title="SPORTS",SONY TEN 2
+#EXTINF:-1 tvg-id="SonyTen2.in" tvg-logo="https://i.postimg.cc/sXsTDzfv/Round-Photo-Aug212022-205910.png" group-title="SPORTS",SONY TEN 2
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="https://i.ibb.co/MBC88gg/Desain-tanpa-judul-55-modified.png" group-title="SPORTS",SONY TEN 3
+#EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="https://i.postimg.cc/C5Qyq5dv/Round-Photo-Aug212022-210025.png" group-title="SPORTS",SONY TEN 3
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vT4qHRjL/Round-Photo-Jul092022-030448.png" group-title="SPORTS",BT SPORT 1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J0n08s9K/Round-Photo-Aug212022-210615.png" group-title="SPORTS",BT SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=hhttps://eplayer.click/
 https://best2.globalweb.ru.com/cdn/premium31/mono.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YCH589Z5/Round-Photo-Jul092022-030622.png" group-title="SPORTS",BT SPORT 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Xvr0nwJr/Round-Photo-Aug212022-210823.png" group-title="SPORTS",BT SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=hhttps://eplayer.click/
 https://best2.globalweb.ru.com/cdn/premium32/mono.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bY1LgTPv/Round-Photo-Jul092022-030801.png" group-title="SPORTS",BT SPORT 3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0NDcGQXt/Round-Photo-Aug212022-211017.png" group-title="SPORTS",BT SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=hhttps://eplayer.click/
 https://best2.globalweb.ru.com/cdn/premium33/mono.m3u8
 
-#EXTINF:0 tvg-id="SPOTV.kr" tvg-name="" tvg-logo="https://i.postimg.cc/fTBcqqrM/Round-Photo-Jul092022-031005.png" group-title="SPORTS",SPO TV 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#EXTINF:0 tvg-id="SPOTV.kr" tvg-name="" tvg-logo="https://i.postimg.cc/wM7NV4T6/Round-Photo-Aug212022-211230.png" group-title="SPORTS",SPO TV 1
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:0 tvg-id="SPOTV2.kr" tvg-name="" tvg-logo="https://i.postimg.cc/fbX0s8Bt/Round-Photo-Jul092022-031253.png" group-title="SPORTS",SPO TV 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:0 tvg-id="SPOTV2.kr" tvg-name="" tvg-logo="https://i.postimg.cc/CL8JD7PG/Round-Photo-Aug212022-211430.png" group-title="SPORTS",SPO TV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1652512126~exp=9007200907253117~acl=/48eee16919834d3b97d
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0QS94sFK/Round-Photo-Jul072022-092853.png" group-title="SPORTS",SUKAN
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/NFcFngtf/Round-Photo-Aug212022-211713.png" group-title="SPORTS",SUKAN
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2496000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-logo="https://i.ibb.co/Bg2ZJwd/Desain-tanpa-judul-91-modified-1.png" group-title="SPORTS", SPORT TV +
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-logo="https://i.postimg.cc/3r4zSgfR/Round-Photo-Aug212022-212052.png" group-title="SPORTS", SPORT TV +
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/sportplus
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/WvJ2Vfm/a450-modified.png" group-title="SPORTS",SPORT TV 1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/X761styH/Round-Photo-Aug212022-212324.png" group-title="SPORTS",SPORT TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=hhttps://eplayer.click/
 https://best2.globalweb.ru.com/cdn/premium49/mono.m3u8
