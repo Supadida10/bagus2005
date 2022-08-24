@@ -347,52 +347,54 @@ http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 SPORTS
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RZtQr1DV/Round-Photo-Aug212022-193116.png" group-title="SPORTS",BEIN PREMIUM 1 AR
-http://cineapp.org:8000/live/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/68945.ts
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinpremium1
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzFPcSy1/Round-Photo-Aug212022-193334.png" group-title="SPORTS",BEIN PREMIUM 2 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium99/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinpremium2
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qRgyB8vF/Round-Photo-Aug212022-193847.png" group-title="SPORTS",BEIN PREMIUM 3 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium100/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinpremium3
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/Bv7m642Q/Round-Photo-Aug212022-194104.png" group-title="SPORTS",BEIN SPORT 1 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium91/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinarab1
 
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://i.postimg.cc/25WxzhjT/Round-Photo-Aug212022-194348.png" group-title="SPORTS",BEIN SPORT 2 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium92/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinarab2
 
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.postimg.cc/262LmSW2/Round-Photo-Aug212022-194535.png" group-title="SPORTS",BEIN SPORT 3 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium93/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinarab3
 
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://i.postimg.cc/8zNFFvbt/Round-Photo-Aug212022-194733.png" group-title="SPORTS",BEIN SPORT 4 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium94/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinarab4
 
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://i.postimg.cc/q7tpgBW1/Round-Photo-Aug212022-194931.png" group-title="SPORTS",BEIN SPORT 5 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium95/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinarab5
 
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://i.postimg.cc/g0KHXdR6/Round-Photo-Aug212022-195122.png" group-title="SPORTS",BEIN SPORT 6 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium96/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinarab6
 
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-logo="https://i.postimg.cc/jdsw2Ncv/Round-Photo-Aug212022-195315.png" group-title="SPORTS",BEIN SPORT 7 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium97/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinarab7
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -405,19 +407,19 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.postimg.cc/Bv7m642Q/Round-Photo-Aug212022-194104.png" group-title="SPORTS",BEIN SPORT 1 ENG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium61/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beineng1
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.postimg.cc/25WxzhjT/Round-Photo-Aug212022-194348.png" group-title="SPORTS",BEIN SPORT 2 ENG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium90/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beineng2
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.postimg.cc/262LmSW2/Round-Photo-Aug212022-194535.png" group-title="SPORTS",BEIN SPOR5 3 ENG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium46/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beineng3
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BZhL8bz0/Round-Photo-Aug212022-195745.png" group-title="SPORTS",футбол 1
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
@@ -441,14 +443,14 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://bl.uma.media/live/407384/HLS/6307840_4/8/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-logo="https://i.postimg.cc/4NyYgGBx/Round-Photo-Aug212022-200459.png" group-title="SPORTS",EUROSPORT 1 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium41/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/eurosport1
 
 #EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.postimg.cc/5tV96Wqv/Round-Photo-Aug212022-200644.png" group-title="SPORTS",EUROSPORT 2 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium42/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/eurosport2
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/G3WmZD8q/Round-Photo-Aug212022-200747.png" group-title="SPORTS",SPORTS TV TR
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
@@ -508,19 +510,19 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J0n08s9K/Round-Photo-Aug212022-210615.png" group-title="SPORTS",BT SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium31/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/bt1
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Xvr0nwJr/Round-Photo-Aug212022-210823.png" group-title="SPORTS",BT SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium32/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/bt2
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0NDcGQXt/Round-Photo-Aug212022-211017.png" group-title="SPORTS",BT SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium33/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/bt3
 
 #EXTINF:0 tvg-id="SPOTV.kr" tvg-name="" tvg-logo="https://i.postimg.cc/wM7NV4T6/Round-Photo-Aug212022-211230.png" group-title="SPORTS",SPO TV 1
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
@@ -536,22 +538,22 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2496000_slENG.m3u8
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/sportplus
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/X761styH/Round-Photo-Aug212022-212324.png" group-title="SPORTS",SPORT TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium49/mono.m3u8
+#EXTVLCOPT:http-referrer=https://jl5kp95va567gl.smokelearned.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/sport1
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3MMjPPW/tv-station-pt-sport-tv-2-451-modified.png" group-title="SPORTS",SPORT TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium74/mono.m3u8
+#EXTVLCOPT:http-referrer=https://jl5kp95va567gl.smokelearned.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/sport2
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DKf53KW/a452-modified.png" group-title="SPORTS",SPORT TV 3
-#EXTVLCOPT:http-referrer=https://4mje600dsdlleg.smokelearned.net/
+#EXTVLCOPT:http-referrer=https://jl5kp95va567gl.smokelearned.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/sport3
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/xF2Mt8R/download-28-modified.png" group-title="SPORTS",SPORT TV 4
-#EXTVLCOPT:http-referrer=https://4mje600dsdlleg.smokelearned.net/
+#EXTVLCOPT:http-referrer=https://jl5kp95va567gl.smokelearned.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/sport4
 
@@ -600,14 +602,14 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee2.m3u8
 
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-logo="https://i.ibb.co/ct8gJqp/download-37-modified.png" group-title="SPORTS",RMC SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium119/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/rmc1
 
 #EXTINF:-1 tvg-id="RMCSport2.fr" tvg-logo="https://i.ibb.co/86PkxZL/tv-station-rmc-sport-2-1428-modified.png" group-title="SPORTS",RMC SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium120/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/rmc2
 
 #EXTINF:-1 tvg-id="RMCSport3.fr" tvg-logo="https://i.ibb.co/YBNdCKw/tv-station-rmc-sport-3-1429-modified.png" group-title="SPORTS",RMC SPORT 3
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/rmc3
@@ -636,59 +638,58 @@ https://best2.globalweb.ru.com/cdn/premium135/mono.m3u8
 https://best2.globalweb.ru.com/cdn/premium136/mono.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="SPORTS",SUPER SPORT LALIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium415/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/superlaliga
 
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="SPORTS",SUPER SPORT EPL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium414/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/superpremier
 
 #EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="SPORTS",SUPER SPORTS TENNIS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium423/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/supertennis
 
 #EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="SPORTS",SUPER SPORT VARIETY 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium416/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/supervar1
 
 #EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="SPORTS",SUPER SPORT VARIETY 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium417/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/supervar2
 
 #EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="SPORTS",SUPER SPORT VARIETY 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium418/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/supervar3
 
 #EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="SPORTS",SUPER SPORT VARIETY 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium419/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/supervar4
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/88CjXqT/Desain-tanpa-judul-56-modified.png" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium130/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/skypremier
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.ibb.co/WPL9Gpw/Desain-tanpa-judul-28-modified-1.png" group-title="SPORTS",SKY SPORTS FOOTBALL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium35/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/skyfootball
 
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://i.ibb.co/6v398mJ/Desain-tanpa-judul-35-modified.png" group-title="SPORTS",SKY SPORTS RACING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium554/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/skyracing
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.ibb.co/88XwF6F/Desain-tanpa-judul-32-modified.png" group-title="SPORTS",SKY SPORTS F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium60/mono.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/skyf1
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RC6FckW6/Round-Photo-Jul112022-082750.png" group-title="SPORTS",FOX SPORTS 1 LATINO
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
