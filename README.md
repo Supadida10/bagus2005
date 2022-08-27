@@ -6,67 +6,67 @@ INDONESIA
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="" tvg-logo="https://i.postimg.cc/sXr34VpV/Round-Photo-Aug212022-064124.png" group-title="",TVRI NASIONAL
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="" tvg-logo="https://i.postimg.cc/sXr34VpV/Round-Photo-Aug212022-064124.png" group-title="INDONESIA",TVRI NASIONAL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="" tvg-logo="https://i.postimg.cc/XvKR39Cb/Round-Photo-Aug212022-064414.png" group-title="",RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="" tvg-logo="https://i.postimg.cc/XvKR39Cb/Round-Photo-Aug212022-064414.png" group-title="INDONESIA",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV.id" tvg-logo="https://i.postimg.cc/pXn1RKw6/Round-Photo-Aug212022-064638.png" group-title="",MNCTV
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV.id" tvg-logo="https://i.postimg.cc/pXn1RKw6/Round-Photo-Aug212022-064638.png" group-title=INDONESIA"",MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/YCdXx8Yj/Round-Photo-Aug212022-064854.png" group-title="",GTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/YCdXx8Yj/Round-Photo-Aug212022-064854.png" group-title="INDONESIA",GTV
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="iNewsTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/N0hKZv1n/Round-Photo-Aug212022-065204.png" group-title="",INEWS TV
+#EXTINF:-1 tvg-id="iNewsTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/N0hKZv1n/Round-Photo-Aug212022-065204.png" group-title="INDONESIA",INEWS TV
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/qvzLQhn4/Round-Photo-Aug212022-065658.png" group-title="",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/qvzLQhn4/Round-Photo-Aug212022-065658.png" group-title="INDONESIA",SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/pd6R3fbL/Round-Photo-Aug212022-065936.png" group-title="",INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/pd6R3fbL/Round-Photo-Aug212022-065936.png" group-title="INDONESIA",INDOSIAR
 https://delivery.macan.network/stream/id_indosiar/playlist.m3u8?token=raha2t6&v=20200807
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/sg2FyMJQ/Round-Photo-Aug212022-070413.png" group-title="",TRANS TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/sg2FyMJQ/Round-Photo-Aug212022-070413.png" group-title="INDONESIA",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w35916090_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://i.postimg.cc/P577j2x9/Round-Photo-Aug212022-070613.png" group-title="",TRANS 7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://i.postimg.cc/P577j2x9/Round-Photo-Aug212022-070613.png" group-title="INDONESIA",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w410935071_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/2S1H2hww/Round-Photo-Aug212022-070859.png" group-title="",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/2S1H2hww/Round-Photo-Aug212022-070859.png" group-title="INDONESIA",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/QdKbps8Y/Round-Photo-Aug212022-071057.png" group-title="",METRO TV
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/QdKbps8Y/Round-Photo-Aug212022-071057.png" group-title="INDONESIA",METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd?token=bukuanmetrotv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="" tvg-logo="https://i.postimg.cc/g2hVxDsf/Round-Photo-Aug212022-071605.png" group-title="",TV ONE
+#EXTINF:-1 tvg-id="tvOne.id" tvg-name="" tvg-logo="https://i.postimg.cc/g2hVxDsf/Round-Photo-Aug212022-071605.png" group-title="INDONESIA",TV ONE
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/7YF7rz4X/Round-Photo-Aug212022-072010.png" group-title="",KOMPAS TV
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/7YF7rz4X/Round-Photo-Aug212022-072010.png" group-title="INDONESIA",KOMPAS TV
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="" tvg-logo="https://i.postimg.cc/SKDJR2BB/Round-Photo-Aug212022-072233.png" group-title="",NET TV
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="" tvg-logo="https://i.postimg.cc/SKDJR2BB/Round-Photo-Aug212022-072233.png" group-title="INDONESIA",NET TV
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="" tvg-logo="https://i.postimg.cc/fL1XWSXw/Round-Photo-Aug212022-072348.png" group-title="",CNN INDONESIA
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="" tvg-logo="https://i.postimg.cc/fL1XWSXw/Round-Photo-Aug212022-072348.png" group-title="INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w800799030_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-name="" tvg-logo="https://i.postimg.cc/pdhLWGBF/Round-Photo-Aug212022-072706.png" group-title="",CNBC INDONESIA
+#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-name="" tvg-logo="https://i.postimg.cc/pdhLWGBF/Round-Photo-Aug212022-072706.png" group-title="INDONESIA",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1525611229_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/Wb1jpYN1/Round-Photo-Aug212022-072912.png" group-title="",RTV
@@ -462,29 +462,19 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/t.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.postimg.cc/y899MB8S/Round-Photo-Aug212022-201415.png" group-title="",ASTRO SUPERSPORT 1
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/astro1
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20414
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.postimg.cc/MXJZVk2h/Round-Photo-Aug212022-201554.png" group-title="",ASTRO SUPERSPORT 2
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/astro2
+http://172.96.140.34:9138/stream/live/c20415.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.postimg.cc/j5WftJHv/Round-Photo-Aug212022-201727.png" group-title="",ASTRO SUPERSPORT 3
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/astro3
+http://172.96.140.34:9138/stream/live/c20416.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.postimg.cc/y8Yk7ZB9/Round-Photo-Aug212022-201910.png" group-title="",ASTRO SUPERSPORT 4
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/astro4
+http://172.96.140.34:9138/stream/live/c20417.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.postimg.cc/m26GFzC7/Round-Photo-Aug212022-202100.png" group-title="",ASTRO SUPERSPORT 5
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/astro5
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20561
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Px8yfqYb/Round-Photo-Aug212022-205033.png" group-title="",ASTRO ARENA 1
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/astroarena1
