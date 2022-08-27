@@ -172,6 +172,9 @@ https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zB6sgdJH/Round-Photo-Aug232022-222447.png" group-title="",PPTV THAILAND
 http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjBTbBQK/Round-Photo-Aug272022-201452.png" group-title="",ONE 31 THAILAND
+http://61.19.242.134/feed/202105171329/chonehd/index.m3u8
+
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="" tvg-logo="https://i.postimg.cc/BQGxyy0t/Round-Photo-Aug212022-091058.png" group-title="",WORKPOINT TV THAILAND
 https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
 
