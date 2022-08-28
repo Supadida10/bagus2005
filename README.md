@@ -758,8 +758,8 @@ https://ad2017.vhls.ru.com/lb/premium104/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fLJXtBbv/Round-Photo-Jul242022-031508.png" group-title="SPORTS",TUDN USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium66/mono.m3u8
+#EXTVLCOPT:http-referrer=https://streamservicehd.click
+https://ad2017.vhls.ru.com/lb/premium66/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Y9vWzKkp/Round-Photo-Jul242022-091742.png" group-title="SPORTS",TVP SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1318,3 +1318,6 @@ LIVE EVENT
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/index_6.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NSB0rRp/Round-Photo-Jul192022-003459.png" group-title="LIVE EVENT",K LEAGUE 2
+https://bf2.feisuzb.cn/live/5000610.m3u8?txSecret=3aa29f4d10fdb987917c9ca50dff6838&txTime=630b4058
