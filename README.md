@@ -365,39 +365,39 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinpremium3
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/Bv7m642Q/Round-Photo-Aug212022-194104.png" group-title="SPORTS",BEIN SPORT 1 AR
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinarab1
+https://ad2017.vhls.ru.com/lb/premium91/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://i.postimg.cc/25WxzhjT/Round-Photo-Aug212022-194348.png" group-title="SPORTS",BEIN SPORT 2 AR
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinarab2
+https://ad2017.vhls.ru.com/lb/premium92/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.postimg.cc/262LmSW2/Round-Photo-Aug212022-194535.png" group-title="SPORTS",BEIN SPORT 3 AR
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinarab3
+https://ad2017.vhls.ru.com/lb/premium93/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://i.postimg.cc/8zNFFvbt/Round-Photo-Aug212022-194733.png" group-title="SPORTS",BEIN SPORT 4 AR
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinarab4
+https://ad2017.vhls.ru.com/lb/premium94/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://i.postimg.cc/q7tpgBW1/Round-Photo-Aug212022-194931.png" group-title="SPORTS",BEIN SPORT 5 AR
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinarab5
+https://ad2017.vhls.ru.com/lb/premium95/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://i.postimg.cc/g0KHXdR6/Round-Photo-Aug212022-195122.png" group-title="SPORTS",BEIN SPORT 6 AR
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinarab6
+https://ad2017.vhls.ru.com/lb/premium96/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-logo="https://i.postimg.cc/jdsw2Ncv/Round-Photo-Aug212022-195315.png" group-title="SPORTS",BEIN SPORT 7 AR
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beinarab7
+https://ad2017.vhls.ru.com/lb/premium97/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -763,8 +763,8 @@ https://ad2017.vhls.ru.com/lb/premium66/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Y9vWzKkp/Round-Photo-Jul242022-091742.png" group-title="SPORTS",TVP SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=hhttps://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium128/mono.m3u8
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://livetvon.click/stream/stream-128.php
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/yxTKGPGj/Round-Photo-Jul172022-030613.png" group-title="SPORTS",ESPN 1 SUR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
