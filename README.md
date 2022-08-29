@@ -459,9 +459,7 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.postimg.cc/t4gwkSqf/Round-Photo-Aug212022-201134.png" group-title="SPORTS",TENNIS CHANNEL
-#EXTVLCOPT:http-referrer=https://wikisport.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/t.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.postimg.cc/y899MB8S/Round-Photo-Aug212022-201415.png" group-title="SPORTS",ASTRO SUPERSPORT 1
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20414
