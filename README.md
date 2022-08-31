@@ -442,12 +442,12 @@ https://bl.uma.media/live/407384/HLS/6307840_4/8/0/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-logo="https://i.postimg.cc/GpFkFKy5/Round-Photo-Aug262022-005814.png" group-title="SPORTS",EUROSPORT 1 UK
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad2017.vhls.ru.com/lb/premium41/index.m3u8
+https://zcri.vhls.ru.com/lb/premium41/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.postimg.cc/cJk8MzJT/Round-Photo-Aug262022-010025.png" group-title="SPORTS",EUROSPORT 2 UK
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad2017.vhls.ru.com/lb/premium42/index.m3u8
+https://zcri.vhls.ru.com/lb/premium42/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/G3WmZD8q/Round-Photo-Aug212022-200747.png" group-title="SPORTS",SPORTS TV TR
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
@@ -458,19 +458,29 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://ad2017.vhls.ru.com/lb/premium40/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.postimg.cc/y899MB8S/Round-Photo-Aug212022-201415.png" group-title="SPORTS",ASTRO SUPERSPORT 1
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20414
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://zcri.vhls.ru.com/lb/premium123/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.postimg.cc/MXJZVk2h/Round-Photo-Aug212022-201554.png" group-title="SPORTS",ASTRO SUPERSPORT 2
-http://172.96.140.34:9138/stream/live/c20415.m3u8
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://zcri.vhls.ru.com/lb/premium124/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.postimg.cc/j5WftJHv/Round-Photo-Aug212022-201727.png" group-title="SPORTS",ASTRO SUPERSPORT 3
-http://172.96.140.34:9138/stream/live/c20416.m3u8
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://zcri.vhls.ru.com/lb/premium125/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.postimg.cc/y8Yk7ZB9/Round-Photo-Aug212022-201910.png" group-title="SPORTS",ASTRO SUPERSPORT 4
-http://172.96.140.34:9138/stream/live/c20417.m3u8
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://zcri.vhls.ru.com/lb/premium126/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.postimg.cc/m26GFzC7/Round-Photo-Aug212022-202100.png" group-title="SPORTS",ASTRO SUPERSPORT 5
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20561
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://zcri.vhls.ru.com/lb/premium43/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Px8yfqYb/Round-Photo-Aug212022-205033.png" group-title="SPORTS",ASTRO ARENA 1
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/astroarena1
